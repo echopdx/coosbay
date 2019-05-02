@@ -51,7 +51,8 @@ Vessel Tours: 10:00 AM to 1 PM ($5 donation) Lady Washington
 Adventure Sail: 11:00 AM to 1:00 PM ($49-$55) Hawaiian Chieftain
 Battle Sail: 2:00 PM to 4:00 PM ($59-$79)
 
-**May 5 (Sunday)** **Private Event 10:00 AM to 1 PM (no Vessel Tours)**  
+**May 5 (Sunday)**   
+Private Event 10:00 AM to 1 PM (no Vessel Tours)  
 Battle Sail: 2:00 PM to 4:00 PM ($59-$79)
 
 **May 6 (Monday)  
