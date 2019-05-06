@@ -1,6 +1,6 @@
 ---
 title: 'Your Guide to Beach-Combing and Tide-Pooling on Oregon''s Adventure Coast '
-date: 2019-04-18 21:00:00 -0700
+date: 2019-04-18T21:00:00-07:00
 description: ''
 tags:
 - Adventure Coast
@@ -62,7 +62,7 @@ Below are some of our favorite spots for beach-combing, picnicking, and tide-poo
 
 **Bastendorff Beach-** A favorite among surfers, kite flyers, beachcombers, locals and tourists alike. You’ll find uninterrupted beach and ocean views can be enjoyed here. Bastendorff Beach is defined by Yoakam Head and the south jetty at the entrance of the bay. Located ¼ mile off the Cape Arago Highway. Never crowded and always beautiful, Bastendorff Beach is a must see for beach enthusiasts. [Click here](http://www.co.coos.or.us/departments/cooscountyparks/bastendorff.aspx ) for more info. Address: 63379 Bastendorff Beach Road Charleston, OR 97420
 
-**Sunset Bay State Park-** A favorite among locals and tourists, Sunset Bay State Park is protected by towering sea cliffs and features beautiful sandy beaches, amazing tide pools, picnic facilities, restrooms, and campgrounds. Beach goers will find easy access for beach combing, bird watching, swimming, and boating. [Learn more.]()  89814 Cape Arago Highway Charleston, OR 97420
+**Sunset Bay State Park-** A favorite among locals and tourists, Sunset Bay State Park is protected by towering sea cliffs and features beautiful sandy beaches, amazing tide pools, picnic facilities, restrooms, and campgrounds. Beach goers will find easy access for beach combing, bird watching, swimming, and boating. [Learn more.](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70)  89814 Cape Arago Highway Charleston, OR 97420
 
 **Cape Arago State Park**- Tucked away below the cliffs, a short walk along the steep trails will take you to a secluded cove where tide-pools and fossils can be found on Cape Arago Beach. Visitors can also enjoy whale watching, fishing, and scuba diving. Two trails can be found here for excellent hiking opportunities; the south trails leads to poolsides full of a variety of sea life, and the north trail lets visitors view offshore colonies of seals and sea lions. The north trails is closed from March - June to protect the seal pups during birthing season. Picnic benches and restrooms are available. [Click here ](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=66)to learn more. Cape Arago Hwy Loop Charleston, OR 97420
 
