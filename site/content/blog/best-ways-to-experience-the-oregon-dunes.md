@@ -18,7 +18,9 @@ Whether you are seeking an off-roading adventure on a quad or ATV, a good hike, 
 
 “Just the massiveness of this area is worth the stop,” says a visitor on TripAdvisor. “Just going there to sit in the sand and reflect on the beauty and the music that the ocean offers. The sunsets are breathtaking and it just gives you a chance to get away from all the hustle, noise, devices and crazy that our current lives offer. What an experience.”
 
-Here are some recommended points of interest to help you get the full experience of the beautiful Oregon Dunes and build memories that last a lifetime:
+![](/img/Oregon Dunes Recreational Park blog-695x322.jpg)
+
+![](/img/oregon dunes atv blog-695x322.jpg)Here are some recommended points of interest to help you get the full experience of the beautiful Oregon Dunes and build memories that last a lifetime:
 
 WHERE TO BEGIN
 Oregon Dunes National Recreation Area Visitor Center (in nearby Reedsport, Oregon) is a great place to begin your journey. Here you will find interpretive exhibits, maps, brochures, books, gifts and a friendly and helpful staff that can help you make the most of your visit to the Oregon Dunes. The visitor center sells recreation passes and special forest product permits such as mushrooms and firewood.
