@@ -5,19 +5,21 @@ description: 'Coos Boat Tours is now offering 2-hour scenic and historic tours i
   Coos Bay. Book a trip for up to 6 passengers on board the Fun Sway, a 40’ Motor
   Yacht and let Captain Brian Kraynik guide you through the incredible scenic beauty
   and rich history along the waters of Coos Bay.  '
-image: ''
-tags: []
+image: "/img/Screenshot 2019-05-11 at 5.23.19 PM.png"
+tags:
+- Coos Bay Tours
+- " guide or charter company"
 categories: []
 draft: true
 
 ---
 To truly experience Oregon’s Adventure Coast from local’s point of view, you simply have to get out on the water. There is a range of recreational water activities to choose from here on Oregon’s South Coast. Everything from kayaking to paddleboarding, swimming, scuba diving, surfing and fishing on lakes or with a [guide or charter company](https://oregonsadventurecoast.com/tour-guides-and-charters/). But there have not been many opportunities for visitors to get out on the water on a scenic cruise or boat tour to explore Coos Bay's natural beauty and rich history, until now.
 
-Coos Boat Tours is now offering 2-hour scenic and historic tours in Coos Bay. Book a trip for up to 6 passengers on board the Fun Sway, a 40’ Motor Yacht and let Captain Brian Kraynik guide you through the incredible scenic beauty and rich history along the waters of Coos Bay.
+Coos Boat Tours is now offering 2-hour scenic and historic tours in Coos Bay. Book a trip for up to 6 passengers on board the _Fun Sway,_ a 40’ Motor Yacht and let Captain Brian Kraynik guide you through the incredible scenic beauty and rich history along the waters of Coos Bay.
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcaptainkfunsway%2Fposts%2F2228072790616801&width=500" width="500" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-Earlier this month, Travel Writer Rick Dancer live streamed a tour on board the "Fun Sway". 
+Earlier this month, Travel Writer Rick Dancer live streamed a tour on board the "Fun Sway".
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F110944429810670%2Fvideos%2F1983054142001668%2F&show_text=1&width=560" width="560" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
 Depending on which Coos Bay tour you choose, some highlights include
