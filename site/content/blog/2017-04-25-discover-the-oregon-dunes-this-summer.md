@@ -1,33 +1,32 @@
 ---
 title: Discover the Natural Beauty & Magic of the Oregon Dunes
-date: 2017-04-25T20:03:12.000Z
-description: >+
-  If you’re headed to the Southern Oregon Coast, a day exploring the magnificent
-  Oregon Dunes National Recreation Area is an absolute must.  Whether you enjoy
-  an off-roading adventure on a quad or ATV, the serenity of hiking along the
-  dunes and in the coastal forests, unlimited photo opps, horseback riding or
-  camping-the opportunities for rest and relaxation are limitless in this
-  magical destination.
-
+date: 2017-04-25T20:03:12.000+00:00
+description: "If you’re headed to the Southern Oregon Coast, a day exploring the magnificent
+  Oregon Dunes National Recreation Area is an absolute must.  Whether you enjoy an
+  off-roading adventure on a quad or ATV, the serenity of hiking along the dunes and
+  in the coastal forests, unlimited photo opps, horseback riding or camping-the opportunities
+  for rest and relaxation are limitless in this magical destination.\n\n"
 tags:
-  - Beaches
-  - Charleston
-  - Coast
-  - coastal sand dunes
-  - Coos Bay
-  - North America
-  - North Bend
-  - Oregon
-  - Oregon ATV
-  - Oregon Coast
-  - Oregon Dunes
-  - Oregon Dunes National Recreation Area
-  - recreation
-  - Southern Oregon Coast
+- Beaches
+- Charleston
+- Coast
+- coastal sand dunes
+- Coos Bay
+- North America
+- North Bend
+- Oregon
+- Oregon ATV
+- Oregon Coast
+- Oregon Dunes
+- Oregon Dunes National Recreation Area
+- recreation
+- Southern Oregon Coast
 categories:
-  - Dunes
-  - Miscellaneous
+- Dunes
+- Miscellaneous
 image: ''
+draft: true
+
 ---
 <span style="font-weight: 400;">If you’re headed to the Southern Oregon Coast, a day exploring the magnificent </span>[<span style="font-weight: 400;">Oregon Dunes National Recreation Area</span>](http://www.oregonsadventurecoast.com/featured-adventures/the-dunes/) <span style="font-weight: 400;">is an absolute must.  Whether you enjoy an off-roading adventure on a quad or ATV, the serenity of hiking along the dunes and in the coastal forests, unlimited photo opps, horseback riding or camping-the opportunities for rest and relaxation are limitless in this magical destination.</span>
 
