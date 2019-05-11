@@ -1,22 +1,22 @@
 ---
-title: 'Sand Duning or Sandboarding?  Either Way, It''s Time to Ride The Oregon Dunes!'
-date: 2016-07-01T17:16:49.000Z
-description: >-
-  The fervor for sand riding is growing in popularity every year, with countless
-  enthusiasts making the trek out to some of the world's biggest dunes in search
-  of adventure. The thing is, when talking about sand riding it's possible to
-  mean two very different activities: sand duning and sand boarding.  Though
-  they may have their own take on what it means to ride down a sand dune, both
-  are an undeniable blast.
+title: Sand Duning or Sandboarding?  Either Way, It's Time to Ride The Oregon Dunes!
+date: 2016-07-01T17:16:49.000+00:00
+description: 'The fervor for sand riding is growing in popularity every year, with
+  countless enthusiasts making the trek out to some of the world''s biggest dunes
+  in search of adventure. The thing is, when talking about sand riding it''s possible
+  to mean two very different activities: sand duning and sand boarding.  Though they
+  may have their own take on what it means to ride down a sand dune, both are an undeniable
+  blast.'
 tags:
-  - Oregon Dunes National Recreation Area
-  - Oregon Dunes Recreation
-  - Sand Dunes
-  - sand duning
-  - Sandboarding
+- Oregon Dunes National Recreation Area
+- Oregon Dunes Recreation
+- Sand Dunes
+- sand duning
+- Sandboarding
 categories:
-  - Miscellaneous
+- Miscellaneous
 image: ''
+
 ---
 <div id="attachment_90157" style="width: 604px" class="wp-caption aligncenter">
   <img class="wp-image-90157 " src="/wp-content/uploads/2016/05/SpinreelDuneBuggyATVRentals-674x379.jpg" alt="SpinreelDuneBuggyATVRentals" width="594" height="334" srcset="/wp-content/uploads/2016/05/SpinreelDuneBuggyATVRentals-674x379.jpg 674w, /wp-content/uploads/2016/05/SpinreelDuneBuggyATVRentals-200x112.jpg 200w, /wp-content/uploads/2016/05/SpinreelDuneBuggyATVRentals.jpg 1000w" sizes="(max-width: 594px) 100vw, 594px" />
