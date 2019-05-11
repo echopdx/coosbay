@@ -25,7 +25,8 @@ Whether you are seeking an off-roading adventure on a quad or ATV, a good hike, 
 WHERE TO BEGIN
 Oregon Dunes National Recreation Area Visitor Center (in nearby Reedsport, Oregon) is a great place to begin your journey. Here you will find interpretive exhibits, maps, brochures, books, gifts and a friendly and helpful staff that can help you make the most of your visit to the Oregon Dunes. The visitor center sells recreation passes and special forest product permits such as mushrooms and firewood.
 
-WHERE TO RENT ATVS (ALL TERRAIN VEHICLES)& OTHER RECREATIONAL GEAR
+### WHERE TO RENT ATVS (ALL TERRAIN VEHICLES) & OTHER RECREATIONAL GEAR 
+
 You’ll find the largest riding area at the Oregon Dunes between Spinreel Campground and Horsfall Road, just a few miles north of North Bend and Coos Bay. Here are some local businesses that have been recommended for ATV/UTV, Sand Board & Sled Rentals and tours.
 
 Spinreel Dune Buggy & ATV Rentals, Inc 67045 Spinreel Road North Bend, OR 97459 541-759-3313 www.ridetheoregondunes.com
@@ -36,7 +37,7 @@ Doon Bugs 68752 Hauser Depot Road (off Hwy 101) North Bend, OR 97459
 Steve’s ATV Rental 68512 Highway 101 North Bend, OR 97459
 (541) 751-1800 www.StevesATVRentals.com
 
-WHERE TO HIKE
+### WHERE TO HIKE
 
 Bluebill Trail- North Bayside, OR
 Bluebill Trail is a 1.25 mile loop and is the most southern trail in the Oregon Dunes National Recreation Area. https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42649
@@ -47,7 +48,7 @@ Located along the Oregon National Recreation Area, Horsfall Beach is a haven for
 John Dellenback Dunes Trail- Lakeside, OR
 Trail begins in a conifer forest and provides vistas of fresh water lakes, wet areas within the forest and ocean waves. The trail wanders threw a spruce forest with substantial tree size and stops at the serene Threemile Lake and ends at the ocean. https://www.fs.usda.gov/recarea/siuslaw/recreation/recarea/?recid=42605
 
-WHERE TO CAMP
+### WHERE TO CAMP
 
 Horsfall Beach OHV Campground -North Bend, OR
 Offers direct beach and dune access. https://www.recreation.gov/camping/campgrounds/232183
