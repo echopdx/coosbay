@@ -9,6 +9,8 @@ image: "/img/Screenshot 2019-05-11 at 5.23.19 PM.png"
 tags:
 - Coos Bay Tours
 - " guide or charter company"
+- Oregon’s South Coast
+- Coos Boat Tours
 categories: []
 draft: true
 
