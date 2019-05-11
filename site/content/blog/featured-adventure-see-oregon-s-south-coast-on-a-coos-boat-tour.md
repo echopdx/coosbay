@@ -11,7 +11,10 @@ tags:
 - " guide or charter company"
 - Oregon’s South Coast
 - Coos Boat Tours
-categories: []
+- 'Coos Bay Boat tour '
+- scenic cruise
+categories:
+- Boat Tours
 draft: true
 
 ---
