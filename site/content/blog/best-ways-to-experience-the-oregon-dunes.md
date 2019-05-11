@@ -5,8 +5,16 @@ description: 'Whether you are seeking an off-roading adventure on a quad or ATV,
   good hike, natural photo opportunities, camping, or simply seeking some peace and
   quiet- you will find it somewhere in the Oregon Dunes National Recreation Area. '
 image: "/img/Oregon Dunesblog-695x322.jpg"
-tags: []
-categories: []
+tags:
+- Oregon Dunes
+- ATV Rental
+- Camping
+- Hiking
+- Dunes
+- Spinreel
+- Oregon Dunes National Recreation Area
+categories:
+- Oregon Dunes
 
 ---
 There's lots to love about Oregon's Adventure Coast, but some would say that the Oregon Dunes National Recreation Area, the largest expanse of coastal dunes in North America, is what truly sets us apart from other travel destinations.
