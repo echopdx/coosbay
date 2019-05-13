@@ -21,9 +21,11 @@ To truly experience Oregon’s Adventure Coast from local’s point of view, you
 
 Coos Boat Tours is now offering 2-hour scenic and historic tours in Coos Bay. Book a trip for up to 6 passengers on board the _Fun Sway,_ a 40’ Motor Yacht and let Captain Brian Kraynik guide you through the incredible scenic beauty and rich history along the waters of Coos Bay.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcaptainkfunsway%2Fposts%2F2228072790616801&width=500" width="500" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+<br>
 
-Earlier this month, Travel Writer Rick Dancer live streamed a tour on board the "Fun Sway".<br><br>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcaptainkfunsway%2Fposts%2F2228072790616801&width=500" width="500" height="650" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe><br>
+
+Earlier this month, Travel Writer Rick Dancer live streamed a tour on board the "Fun Sway".<br>
 
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F110944429810670%2Fvideos%2F1983054142001668%2F&show_text=1&width=560" width="560" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
