@@ -37,12 +37,11 @@ Oregon Dunes National Recreation Area Visitor Center (in nearby Reedsport, Orego
 
 You’ll find the largest riding area at the Oregon Dunes between Spinreel Campground and Horsfall Road, just a few miles north of North Bend and Coos Bay. Here are some local businesses that have been recommended for ATV/UTV, Sand Board & Sled Rentals and tours.
 
-[Spinreel Dune Buggy & ATV Rentals](https://www.ridetheoregondunes.com/)- North Bend, OR  
+[Spinreel Dune Buggy & ATV Rentals](https://www.ridetheoregondunes.com/)- North Bend, OR
 
 [Doon Bugs](http://www.oregondunebugrentals.com/)- North Bend, OR
 
 [Steve’s ATV Rental-](https://stevesatvrentals.com/) North Bend, OR
-
 
 ### WHERE TO HIKE
 
@@ -69,7 +68,6 @@ RV’s any size. Tent sites, drinking water, convenience store, playground, ATV 
 Spinreel Campground- North Bend, OR
 Located south of Lakeside, Spinreel Campground offers fishing, boating, horseback riding, picnicking, Off-Highway Vehicle riding on the dunes and beach. [www.fs.usda.gov](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42653)
 
-Wild Mare Horse Campground- North Bend, OR
-Located in the southwest corner of the Oregon Dunes National Recreation Area, provides 12 campsites with fire pits and tables. [www.recreation.gov/camping](https://www.recreation.gov/camping/campgrounds/232184)
+Wild Mare Horse Campground- North Bend, OR Located in the southwest corner of the Oregon Dunes National Recreation Area, provides 12 campsites with fire pits and tables. Each camp site has a horse corral! [www.recreation.gov/camping](https://www.recreation.gov/camping/campgrounds/232184)
 
 For more tips on how to get the most out of your Oregon Dunes Adventure, please visit these resources: [oregonsadventurecoast.com/untamed-dunes ](https://oregonsadventurecoast.com/untamed-dunes/ )[www.fs.usda.gov ](https://www.fs.usda.gov/recarea/siuslaw/recarea/?recid=42465)[www.stateparks.com](https://www.stateparks.com/oregon_dunes_national_recreation_area_in_oregon.html)
