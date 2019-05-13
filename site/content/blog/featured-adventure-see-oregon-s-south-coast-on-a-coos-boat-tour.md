@@ -39,7 +39,8 @@ Depending on which Coos Bay tour you choose, some highlights include
 
 * Watching the hustle and bustle in the Port of Coos Bay and North Bend.
 * A unique view of the tug boats, lumber barges, wood chip ships, and a Coast Guard Cutter.
-* A close-up view of Coos Bay’s estuary system -A trip under the iconic Conde McCullough Bridge.
+* A close-up view of Coos Bay’s estuary system. 
+* A trip under the iconic Conde McCullough Bridge.
 * A look at Coos Bay’s lesser-seen Eastside industrial waterfront.
 * An unbeatable view of the Isthmus Slough tidal estuary.
 
@@ -49,4 +50,4 @@ Recently, he gave Coos Bay Visitors a special opportunity to view the Tall Ships
 
 > _"We went on a two hour tour and the boat ride was very smooth and excellent. The Captain and the Shipmate are truly friendly and down to earth people with a great sense of humor. The captain followed the tall pirate ships as they fired there cannons and stayed close to the pirate ship and we were able to take excellent pictures and video. Thank you for making this a wonderful memory for our family from Chicago & Cottage Grove."_ - Tammy A. Facebook
 
-Coos Boat Tours also serve the Bandon area. To book your own adventure on board _The Fun Sway_ with Coos Boat Tours, please visit [www.coosboattours.com](https://www.coosboattours.com) or call Call (541) 999-6575. You can also follow their adventures on on [Facebook ](https://www.facebook.com/captainkfunsway/) and [Instagram](https://www.instagram.com/fun_sway/).
+Coos Boat Tours also serve the Bandon area. To book your own adventure on board _The Fun Sway_ with Coos Boat Tours, call (541) 999-6575. Learn more by visiting  visit [www.coosboattours.com](https://www.coosboattours.com). You can also follow their adventures on on [Facebook ](https://www.facebook.com/captainkfunsway/) and [Instagram](https://www.instagram.com/fun_sway/).
