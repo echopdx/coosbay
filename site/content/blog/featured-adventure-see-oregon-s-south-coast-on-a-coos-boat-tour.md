@@ -1,6 +1,6 @@
 ---
 title: 'Featured Adventure: See Oregon''s South Coast  on a Coos Boat Tour'
-date: 2019-05-13T21:00:00-07:00
+date: 2019-05-13T09:01:00-07:00
 description: 'Coos Boat Tours is now offering 2-hour scenic and historic tours in
   Coos Bay. Book a trip for up to 6 passengers on board the Fun Sway, a 40’ Motor
   Yacht and let Captain Brian Kraynik guide you through the incredible scenic beauty
