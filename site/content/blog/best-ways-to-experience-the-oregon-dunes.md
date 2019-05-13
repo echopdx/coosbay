@@ -25,6 +25,10 @@ Whether you are seeking an off-roading adventure on a quad or ATV, a good hike, 
 
 “Just the massiveness of this area is worth the stop,” says a visitor on TripAdvisor. “Just going there to sit in the sand and reflect on the beauty and the music that the ocean offers. The sunsets are breathtaking and it just gives you a chance to get away from all the hustle, noise, devices and crazy that our current lives offer. What an experience.”
 
+Even travel journalist, Rick Dancer, had this to say on [ExplOregon The Back Stories:](https://www.facebook.com/ExplOregon-The-Back-Stories-110944429810670/)
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F110944429810670%2Fvideos%2F286834055530097%2F&show_text=1&width=560" width="560" height="546" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
+
 ![](/img/Oregon Dunes Recreational Park blog-695x322.jpg)
 
 ![](/img/oregon dunes atv blog-695x322.jpg)Here are some recommended points of interest to help you get the full experience of the beautiful Oregon Dunes and build memories that last a lifetime:
