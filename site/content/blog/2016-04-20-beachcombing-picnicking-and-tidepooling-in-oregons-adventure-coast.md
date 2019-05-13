@@ -1,7 +1,10 @@
 ---
 title: 'Your Guide to Beach-Combing and Tide-Pooling on Oregon''s Adventure Coast '
 date: 2019-04-18T21:00:00-07:00
-description: ''
+description: 'If beach-combing, tide-pooling, picnicking, whale watching, surfing
+  and clamming or other popular pastimes are on your Oregon Coast wish list, look
+  no further than our very own beaches and be sure to follow these tips to stay safe
+  & protect our natural habitat. '
 tags:
 - Adventure Coast
 - Beachcombing
@@ -18,7 +21,7 @@ categories:
 image: "/img/Oregon Coast Beaches blog 695 x 322.JPG"
 
 ---
-There is much to love about visiting Oregon's Adventure Coast, but the miles and miles of beautiful, undeveloped beaches may be one of our greatest natural assets. The beaches on Oregon's South Coast are equally ideal perfect for anyone searching for a quiet,undisturbed spot to simply reflect and watch the tide roll in and out and for those looking for the perfect spot to surf, swim, walk the dogs or search for hidden beach treasures.
+There is much to love about visiting Oregon's Adventure Coast, but the miles and miles of beautiful, undeveloped beaches may be one of our greatest natural assets. The beaches on Oregon's South Coast are ideal for anyone searching for a quiet, undisturbed spot to watch the tide roll in and out. They are also perfect for those looking for a place to surf, swim, walk the dogs or search for hidden beach treasures.
 
 If beach-combing, tide-pooling, picnicking, whale watching, surfing and clamming or other popular pastimes are on your Oregon Coast wish list, look no further than our very own beaches and be sure to follow these tips to stay safe & protect our natural habitat. Visitors going to the beach should be aware of coastal safety hazards with the potential danger of undertows, sneaker waves and rolling logs. [Click here for Beach Safety Tips](https://oregonsadventurecoast.com/blog/eight-ways-to-stay-safe-on-the-beaches-along-the-oregon-coast/).
 
