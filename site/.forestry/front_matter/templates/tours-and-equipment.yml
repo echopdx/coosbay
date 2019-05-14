@@ -34,5 +34,6 @@ fields:
   label: Contact
   name: contact
 pages:
+- site/content/tourandequipment/coos-bay-boat-tours.md
 - site/content/tourandequipment/bahama-boards.md
 - site/content/tourandequipment/indigenous-02.md
