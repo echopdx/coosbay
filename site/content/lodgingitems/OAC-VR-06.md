@@ -3,7 +3,7 @@ photo_name: "/img/Little-Cabin.jpg"
 photo_alt: Little Cabin on the River vacation rental near Coos Bay, OR
 title: Little Cabin on the River
 property_name: Little Cabin on the River
-property_category: 1 - Hotels, Motels & Inns
+property_category: 4 - Vacation Rental Homes
 address:
   street: 
   street2: 
