@@ -3,13 +3,13 @@ photo_name: "/img/alder-acres-cb.jpg"
 photo_alt: Alder Acres RV Park in Coos Bay, OR
 title: Alder Acres RV Park
 property_name: Alder Acres RV Park
-property_category: 1 - Hotels, Motels & Inns
+property_category: 2 - RV Parks & Camping
 address:
   street: 1800 N. 28th Court
   street2: 
   city: Coos Bay
   state: OR
-  zip: 97420
+  zip: "97420"
 phone_toll_free: 
 phone_local: 541-269-0999
 units: 20
