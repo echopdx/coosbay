@@ -8,59 +8,71 @@ categories: []
 draft: true
 
 ---
-Summer is here and we think it’s time for you to take a hike! Coos Bay, North Bend and Charleston, Oregon residents and visitors have access to some of the most stunning and diverse landscapes in the country; whether it’s climbing majestic sand dunes or biking through a rugged coastal forest or walking along paths overlooking the Pacific, and now is the time to grab your hiking boots and head this way for a beautiful adventure. Here are # Hiking Destinations to explore on Oregon’s Adventure Coast: 
+Summer is here and we think it’s time for you to take a hike! Coos Bay, North Bend and Charleston, Oregon residents and visitors have access to some of the most stunning and diverse landscapes in the country; whether it’s climbing majestic sand dunes or biking through a rugged coastal forest or walking along paths overlooking the Pacific, and now is the time to grab your hiking boots and head this way for a beautiful adventure. Here are # Hiking Destinations to explore on Oregon’s Adventure Coast:
 
 #1 OREGON DUNES NATIONAL RECREATION AREA
-When one of the largest areas of temperate coastal sand dunes in the world is located in your back yard, you hike it! Miles and miles of towering wind-sculpted sand dunes make the famed Oregon Dunes National Recreation Area a perfect location for hiking and photo opportunities. Though there are numerous trails to choose from, here are a few that captured our imagination: 
+When one of the largest areas of temperate coastal sand dunes in the world is located in your back yard, you hike it! Miles and miles of towering wind-sculpted sand dunes make the famed Oregon Dunes National Recreation Area a perfect location for hiking and photo opportunities. Though there are numerous trails to choose from, here are a few that captured our imagination:
 
 Bluebill Lake Trail
-Trail Length 1.2 mile 
+Trail Length 1.2 mile
 Level of Difficulty: Easy
 Trail Features:
 Great for hiking, walking and birdwatching
-Great lake views and extensive boardwalk for wildlife viewing 
-Dogs allowed leash. 
-Open Year Round 
+Great lake views and extensive boardwalk for wildlife viewing
+Dogs allowed leash.
+Open Year Round
 More info & maps can be found at https://www.alltrails.com/trail/us/oregon/bluebill-lake-trail
 
-John Dellenback Trail 
+John Dellenback Trail
 Trail Length 5.4 miles round-trip (There's also a shorter, family-friendly route of just 1 mile)
-Level of Difficulty: Moderate- Challenging 
+Level of Difficulty: Moderate- Challenging
 
 Trail Features
 A variety of terrain and sweeping views of the dunes, beach, and coastal forest
 features beautiful wildflowers
-accessible year-round. 
-Dogs allowed on a leash 
+accessible year-round.
+Dogs allowed on a leash
 More info & maps can be found at https://www.alltrails.com/trail/us/oregon/john-dellenback-trail
 
-Shore Acres Loop Hike
-Sunset Bay to Simpson Beach
 
-
+#2 SHORE ACRES LOOP HIKE- Sunset Bay to Simpson Beach
+This section of the Oregon Coast Trail, open year-round, is regarded by many as one of the most beautiful hikes in the state of Oregon. Dense, coastal forests, rugged sandstone cliffs, and majestic vista points provide make this a very popular destination for nature lovers and hikers of all levels. Be sure to bring a camera with you for the all but certain wildlife photo opportunities you’ll encounter.
 Trail Length: 4.7 miles
 Difficulty: Easy
 
-
-
-
-
-
-
-
-
-
-
-Description
-This section of the Oregon Coast Trail, open year-round, is regarded by many as one of the most beautiful hikes in the state of Oregon. Dense, coastal forests, rugged sandstone cliffs, and majestic vista points provide make this a very popular destination for nature lovers and hikers of all levels. Be sure to bring a camera with you for the all but certain wildlife photo opportunities you’ll encounter. Trail highlights include: 
-
+Trail Features
 Premium tide pool exploration opportunities at Sunset Bay State Park & Simpson Beach
-*Shore Acres State Park, the crown jewel of Oregon’s South Coast
-Views of the Cape Arago Lighthouse 
-Dramatic vistas of the Pacific 
-Coastal forests 
+Shore Acres State Park, the crown jewel of Oregon’s South Coast
+Views of the Cape Arago Lighthouse
+Dramatic vistas of the Pacific
+Coastal forests
 Access to restrooms, picnic, and camping facilities 
+Dogs are not permitted in the Shore Acres Botanical Gardens
+More info & maps can be found at https://www.oregonhikers.org/field_guide/Shore_Acres_Loop_Hike
 
-*Dogs are not permitted in the Shore Acres Botanical Gardens.
+#3 CAPE ARAGO LOOP
+“This hike features the quieter side of the spectacular Sunset Bay, Shore Acres and Cape Arago complex of state parks south of Coos Bay,” writes Zach Urness in this 2016 Statesman Journal article. “Before starting the loop hike, take the time to explore two short treks just off the parking area. The North and South Cove trails lead to tidepools, beaches and viewpoints where you can say hello to barking sea lion.”  Please note the North Cove Trail is closed March 1st – June 30th to protect seal pups.
+
+Trail Length: The entire loop is 4.3 miles 
+Level of Difficulty: Moderate- challenging 
+Trail Features: 
+The Cape Arago Pack Trail, a moderately challenging trek through dense coastal forests 
+A rare World War II bunker hidden among the brush on this rarely hiked trail.
+Natural scenery and sweeping views of the Pacific. 
+Views of seals and sea lions on Simpson Reef and Shell Island . 
+More info & maps can be found at https://www.oregonhikers.org/field_guide/Cape_Arago_Loop_Hike
+
+SOUTH SLOUGH NATIONAL ESTUARINE RESEARCH RESERVE
+The trails at South Slough National Estuarine Research Reserve (SSNERR) are one of Oregon’s best-kept secrets. In addition to its unbeatable natural surroundings, SSNERR hikers have access to some of the best birding spots that Oregon has to offer, so be sure to bring binoculars with you! Most hikers say that these trails are well maintained and relatively easy to hike, however, there are uphill portions to conquer so be prepared!  We recommend downloading a free trail map if you’re planning to make the trek! 
+
+Trail Length: Ranges from 2.2 miles to 3.5 miles
+Level of Difficulty: Easy- Moderate
+Trail Features:
+ hiking trails for all ability levels.
+boardwalk that winds through fresh and saltwater marshes
+Lush coastal Vegetation and wildlife
+ interpretive center, restrooms, 
+cessible year-round. Dogs are also able to use this trail but must be kept on leash.
 
 
+More info & maps can be found at https://www.alltrails.com/trail/us/oregon/south-slough-national-estuarine-research-reserve
