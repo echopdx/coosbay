@@ -1,5 +1,5 @@
 ---
-title: Hit the Trails! Six Hiking Destinations to Explore on Oregon's Adventure Coast
+title: 'Five Oregon Coast Hiking Destinations to Explore This Summer '
 date: 2019-05-27T21:00:00-07:00
 description: ''
 image: ''
@@ -43,26 +43,27 @@ Difficulty: Easy
 Trail Features
 Premium tide pool exploration opportunities at Sunset Bay State Park & Simpson Beach
 Shore Acres State Park, the crown jewel of Oregon’s South Coast
-Views of the Cape Arago Lighthouse
+Great views of Gregory Point and Cape Arago Lighthouse.
 Dramatic vistas of the Pacific
 Coastal forests
 Access to restrooms, picnic, and camping facilities 
 Dogs are not permitted in the Shore Acres Botanical Gardens
 More info & maps can be found at https://www.oregonhikers.org/field_guide/Shore_Acres_Loop_Hike
 
+
 #3 CAPE ARAGO LOOP
-“This hike features the quieter side of the spectacular Sunset Bay, Shore Acres and Cape Arago complex of state parks south of Coos Bay,” writes Zach Urness in this 2016 Statesman Journal article. “Before starting the loop hike, take the time to explore two short treks just off the parking area. The North and South Cove trails lead to tidepools, beaches and viewpoints where you can say hello to barking sea lion.”  Please note the North Cove Trail is closed March 1st – June 30th to protect seal pups.
+This scenic, oceanfront trail is typically less traveled than other trails mentioned in this post. Located 15 minutes from Coos Bay, this hiking destination is the perfect place to lose yourself in nature.“This hike features the quieter side of the spectacular Sunset Bay, Shore Acres and Cape Arago complex of state parks south of Coos Bay,” writes Zach Urness in this 2016 Statesman Journal article. “Before starting the loop hike, take the time to explore two short treks just off the parking area. The North and South Cove trails lead to tidepools, beaches and viewpoints where you can say hello to barking sea lion.”  Please note the North Cove Trail is closed March 1st – June 30th to protect seal pups.
 
 Trail Length: The entire loop is 4.3 miles 
 Level of Difficulty: Moderate- challenging 
 Trail Features: 
-The Cape Arago Pack Trail, a moderately challenging trek through dense coastal forests 
-A rare World War II bunker hidden among the brush on this rarely hiked trail.
+A moderately challenging trek through dense coastal forests 
+A rare World War II bunker hidden among the brush 
 Natural scenery and sweeping views of the Pacific. 
 Views of seals and sea lions on Simpson Reef and Shell Island . 
 More info & maps can be found at https://www.oregonhikers.org/field_guide/Cape_Arago_Loop_Hike
 
-SOUTH SLOUGH NATIONAL ESTUARINE RESEARCH RESERVE
+#4 SOUTH SLOUGH NATIONAL ESTUARINE RESEARCH RESERVE
 The trails at South Slough National Estuarine Research Reserve (SSNERR) are one of Oregon’s best-kept secrets. In addition to its unbeatable natural surroundings, SSNERR hikers have access to some of the best birding spots that Oregon has to offer, so be sure to bring binoculars with you! Most hikers say that these trails are well maintained and relatively easy to hike, however, there are uphill portions to conquer so be prepared!  We recommend downloading a free trail map if you’re planning to make the trek! 
 
 Trail Length: Ranges from 2.2 miles to 3.5 miles
@@ -73,6 +74,19 @@ boardwalk that winds through fresh and saltwater marshes
 Lush coastal Vegetation and wildlife
  interpretive center, restrooms, 
 cessible year-round. Dogs are also able to use this trail but must be kept on leash.
-
-
 More info & maps can be found at https://www.alltrails.com/trail/us/oregon/south-slough-national-estuarine-research-reserve
+
+#5 GOLDEN AND SILVER FALLS
+Located a half hour from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101. A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it’s well worth drive. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss-covered boulders 100 feet below. 
+
+Trail Length: 1.4 miles 
+Level of Difficulty: Easy
+
+Trail Features:
+Two of Oregon’s most beautiful waterfalls 
+Lush coastal forests, giant old-growth firs and cedars
+Picnic tables, restrooms
+Tons of photo opps
+
+More info & maps can be found at  https://www.alltrails.com/trail/us/oregon/golden-and-silver-falls
+
