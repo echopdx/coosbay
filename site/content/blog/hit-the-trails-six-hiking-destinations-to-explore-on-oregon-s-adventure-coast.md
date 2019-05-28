@@ -1,14 +1,37 @@
 ---
-title: 'Five Oregon Coast Hiking Destinations to Explore This Summer '
+title: Five Hiking Destinations to Explore on Oregon's South Coast
 date: 2019-05-27T21:00:00-07:00
-description: ''
+description: 'Some of the most stunning and diverse landscapes in the country are
+  right here on Oregon''s South Coast. Grab your hiking boots and head this way for
+  a beautiful adventure on these five hiking destinations on Oregon’s Adventure Coast. '
 image: ''
-tags: []
-categories: []
+tags:
+- Oregon Coast
+- " Hiking"
+- 'Golden and Silver Falls '
+- South Slough National Estuarine Research Reserve
+- " Cape Arago Loop"
+- Cape Arago Hiking Trails
+- Shore Acres Hiking
+- South Slough Hiking
+- Oregon’s South Coast
+- Oregon Coast Trail
+- John Dellenback Trail
+- Bluebill Lake Trail
+- 'regon Dunes National Recreation Area '
+- Coos Bay Hiking
+- North Bend Hiking
+- Charleston Oregon Hiking
+- Family Friendly Hiking
+- Oregon Hiking Destinations
+- " Oregon’s Adventure Coast"
+- waterfalls
+categories:
+- 'Hiking '
 draft: true
 
 ---
-Summer is here and we think it’s time for you to take a hike! Coos Bay, North Bend and Charleston, Oregon residents and visitors have access to some of the most stunning and diverse landscapes in the country; whether it’s climbing majestic sand dunes or biking through a rugged coastal forest or walking along paths overlooking the Pacific, and now is the time to grab your hiking boots and head this way for a beautiful adventure. Here are # Hiking Destinations to explore on Oregon’s Adventure Coast:
+Summer is here and we think it’s time for you to take a hike! Coos Bay, North Bend and Charleston, Oregon residents and visitors have access to some of the most stunning and diverse landscapes in the country; whether it’s climbing majestic sand dunes or biking through a rugged coastal forest or walking along paths overlooking the Pacific, and now is the time to grab your hiking boots and head this way for a beautiful adventure. Here are five hiking destinations to explore this summer (or any time of the year) on Oregon’s Adventure Coast:
 
 **#1 OREGON DUNES NATIONAL RECREATION AREA**
 When one of the largest areas of temperate coastal sand dunes in the world is located in your back yard, you hike it! Miles and miles of towering wind-sculpted sand dunes make the famed Oregon Dunes National Recreation Area a perfect location for hiking and photo opportunities. Though there are numerous trails to choose from, here are a few that captured our imagination:
@@ -36,18 +59,17 @@ When one of the largest areas of temperate coastal sand dunes in the world is lo
 * More info & maps can be found at [alltrails.com/trail/us/oregon/john-dellenback-trail]()
 
 **#2 SHORE ACRES LOOP HIKE- Sunset Bay to Simpson Beach**
-This section of the Oregon Coast Trail, open year-round, is regarded by many as one of the most beautiful hikes in the state of Oregon. Dense, coastal forests, rugged sandstone cliffs, and majestic vista points provide make this a very popular destination for nature lovers and hikers of all levels. Be sure to bring a camera with you for the all but certain wildlife photo opportunities you’ll encounter.
+This section of the [Oregon Coast Trail](https://www.backpacker.com/trips/long-trails/oregon-coast-trail), open year-round, is regarded by many as one of the most beautiful hikes in the state of Oregon. Dense, coastal forests, rugged sandstone cliffs, and majestic vista points provide make this a very popular destination for nature lovers and hikers of all levels. Be sure to bring a camera with you for the all but certain wildlife photo opportunities you’ll encounter.
 **Trail Length:** 4.7 miles
 **Difficulty:** Easy
 **Trail Features:**
 
 * Premium tide pool exploration opportunities at Sunset Bay State Park & Simpson Beach
 * Shore Acres State Park, the crown jewel of Oregon’s South Coast
-* Great views of Gregory Point and Cape Arago Lighthouse.
+* Great views of Gregory Point and Cape Arago Lighthouse
 * Dramatic vistas of the Pacific
 * Coastal forests
 * Access to restrooms, picnic, and camping facilities
-* Dogs are not permitted in the Shore Acres Botanical Gardens
 * More info & maps can be found at [oregonhikers.org/field_guide/Shore_Acres_Loop_Hike](https://www.oregonhikers.org/field_guide/Shore_Acres_Loop_Hike)
 
 **#3 CAPE ARAGO LOOP**
