@@ -78,7 +78,11 @@ This section of the [Oregon Coast Trail](https://www.backpacker.com/trips/long-t
 * Access to restrooms, picnic, and camping facilities
 * More info & maps can be found at [oregonhikers.org/field_guide/Shore_Acres_Loop_Hike](https://www.oregonhikers.org/field_guide/Shore_Acres_Loop_Hike)
 
-**#3 CAPE ARAGO LOOP** This scenic, oceanfront trail is typically less traveled than other trails mentioned in this post. Located 15 minutes from Coos Bay, this hiking destination is the perfect place to lose yourself in nature. “This hike features the quieter side of the spectacular Sunset Bay, Shore Acres and Cape Arago complex of state parks south of Coos Bay,” writes Zach Urness in this [2016 Statesman Journal article](https://www.statesmanjournal.com/story/travel/outdoors/2016/01/06/oregon-top-5-best-hikes-near-coos-bay-north-bend-sunset-bay/78317672/). “Before starting the loop hike, take the time to explore two short treks just off the parking area. The North and South Cove trails lead to tidepools, beaches and viewpoints where you can say hello to barking sea lion.”  Please note the North Cove Trail is closed March 1st – June 30th to protect seal pups.
+**#3 CAPE ARAGO LOOP**
+
+![](/img/Cape Arago Hike blog-695x322.JPG)
+
+This scenic, oceanfront trail is typically less traveled than other trails mentioned in this post. Located 15 minutes from Coos Bay, this hiking destination is the perfect place to lose yourself in nature. “This hike features the quieter side of the spectacular Sunset Bay, Shore Acres and Cape Arago complex of state parks south of Coos Bay,” writes Zach Urness in this [2016 Statesman Journal article](https://www.statesmanjournal.com/story/travel/outdoors/2016/01/06/oregon-top-5-best-hikes-near-coos-bay-north-bend-sunset-bay/78317672/). “Before starting the loop hike, take the time to explore two short treks just off the parking area. The North and South Cove trails lead to tidepools, beaches and viewpoints where you can say hello to barking sea lion.”  Please note the North Cove Trail is closed March 1st – June 30th to protect seal pups.
 
 **Trail Length:** The entire loop is 4.3 miles
 **Level of Difficulty:** Moderate- challenging
@@ -91,6 +95,8 @@ This section of the [Oregon Coast Trail](https://www.backpacker.com/trips/long-t
 * More info & maps can be found at [www.oregonhikers.org/field_guide/Cape_Arago_Loop_Hike](https://www.oregonhikers.org/field_guide/Cape_Arago_Loop_Hike)
 
 **#4 SOUTH SLOUGH NATIONAL ESTUARINE RESEARCH RESERVE**
+
+![](/img/South Slough Hike blog-695x322.jpg)
 The trails at South Slough National Estuarine Research Reserve (SSNERR) are one of Oregon’s best-kept secrets. In addition to its unbeatable natural surroundings, SSNERR hikers have access to some of the best birding spots that Oregon has to offer, so be sure to bring binoculars with you! Most hikers say that these trails are well maintained and relatively easy to hike, however, there are uphill portions to conquer so be prepared!  We recommend downloading a free trail map if you’re planning to make the trek!
 
 **Trail Length:** Ranges from 2.2 miles to 3.5 miles
@@ -105,6 +111,8 @@ The trails at South Slough National Estuarine Research Reserve (SSNERR) are one 
 * More info & maps can be found at [alltrails.com/trail/us/oregon/south-slough](https://www.alltrails.com/trail/us/oregon/south-slough-national-estuarine-research-reserve)
 
 **#5 GOLDEN AND SILVER FALLS**
+
+![](/img/Golden and Silver Falls blog695x322.jpg)
 Located a half hour from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101. A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it’s well worth drive. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss-covered boulders 100 feet below.
 
 **Trail Length:** 1.4 miles
