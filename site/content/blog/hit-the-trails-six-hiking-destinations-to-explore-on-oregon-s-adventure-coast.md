@@ -31,9 +31,13 @@ categories:
 draft: true
 
 ---
-Summer is here and we think it’s time for you to take a hike! Coos Bay, North Bend and Charleston, Oregon residents and visitors have access to some of the most stunning and diverse landscapes in the country; whether it’s climbing majestic sand dunes or biking through a rugged coastal forest or walking along paths overlooking the Pacific, and now is the time to grab your hiking boots and head this way for a beautiful adventure. Here are five hiking destinations to explore this summer (or any time of the year) on Oregon’s Adventure Coast:
+Summer is here and we think it’s time for you to take a hike! Coos Bay, North Bend and Charleston, Oregon residents and visitors have access to some of the most stunning and diverse landscapes in the country; whether it’s climbing majestic sand dunes or biking through a rugged coastal forest or walking along paths overlooking the Pacific, and now is the time to grab your hiking boots and head this way for a beautiful adventure. 
+
+Here are five hiking destinations to explore this summer (or any time of the year) on Oregon’s Adventure Coast:
 
 **#1 OREGON DUNES NATIONAL RECREATION AREA**
+
+![](/img/John Dellenback Trail blog-695x322.jpg)
 When one of the largest areas of temperate coastal sand dunes in the world is located in your back yard, you hike it! Miles and miles of towering wind-sculpted sand dunes make the famed Oregon Dunes National Recreation Area a perfect location for hiking and photo opportunities. Though there are numerous trails to choose from, here are a few that captured our imagination:
 
 **Bluebill Lake Trail**
@@ -59,6 +63,8 @@ When one of the largest areas of temperate coastal sand dunes in the world is lo
 * More info & maps can be found at [alltrails.com/trail/us/oregon/john-dellenback-trail]()
 
 **#2 SHORE ACRES LOOP HIKE- Sunset Bay to Simpson Beach**
+
+![](/img/Oregon Coast Hiking Trail blog-695x322.jpg)
 This section of the [Oregon Coast Trail](https://www.backpacker.com/trips/long-trails/oregon-coast-trail), open year-round, is regarded by many as one of the most beautiful hikes in the state of Oregon. Dense, coastal forests, rugged sandstone cliffs, and majestic vista points provide make this a very popular destination for nature lovers and hikers of all levels. Be sure to bring a camera with you for the all but certain wildlife photo opportunities you’ll encounter.
 **Trail Length:** 4.7 miles
 **Difficulty:** Easy
@@ -72,8 +78,7 @@ This section of the [Oregon Coast Trail](https://www.backpacker.com/trips/long-t
 * Access to restrooms, picnic, and camping facilities
 * More info & maps can be found at [oregonhikers.org/field_guide/Shore_Acres_Loop_Hike](https://www.oregonhikers.org/field_guide/Shore_Acres_Loop_Hike)
 
-**#3 CAPE ARAGO LOOP**
-This scenic, oceanfront trail is typically less traveled than other trails mentioned in this post. Located 15 minutes from Coos Bay, this hiking destination is the perfect place to lose yourself in nature.“This hike features the quieter side of the spectacular Sunset Bay, Shore Acres and Cape Arago complex of state parks south of Coos Bay,” writes Zach Urness in this 2016 Statesman Journal article. “Before starting the loop hike, take the time to explore two short treks just off the parking area. The North and South Cove trails lead to tidepools, beaches and viewpoints where you can say hello to barking sea lion.”  Please note the North Cove Trail is closed March 1st – June 30th to protect seal pups.
+**#3 CAPE ARAGO LOOP** This scenic, oceanfront trail is typically less traveled than other trails mentioned in this post. Located 15 minutes from Coos Bay, this hiking destination is the perfect place to lose yourself in nature. “This hike features the quieter side of the spectacular Sunset Bay, Shore Acres and Cape Arago complex of state parks south of Coos Bay,” writes Zach Urness in this [2016 Statesman Journal article](https://www.statesmanjournal.com/story/travel/outdoors/2016/01/06/oregon-top-5-best-hikes-near-coos-bay-north-bend-sunset-bay/78317672/). “Before starting the loop hike, take the time to explore two short treks just off the parking area. The North and South Cove trails lead to tidepools, beaches and viewpoints where you can say hello to barking sea lion.”  Please note the North Cove Trail is closed March 1st – June 30th to protect seal pups.
 
 **Trail Length:** The entire loop is 4.3 miles
 **Level of Difficulty:** Moderate- challenging
