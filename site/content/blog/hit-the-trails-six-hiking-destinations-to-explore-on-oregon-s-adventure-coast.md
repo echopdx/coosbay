@@ -22,12 +22,13 @@ When one of the largest areas of temperate coastal sand dunes in the world is lo
 * Great lake views and extensive boardwalk for wildlife viewing
 * Dogs allowed leash
 * Open Year Round
-* More info & maps can be found at https://www.alltrails.com/trail/us/oregon/bluebill-lake-trail
+* More info & maps can be found at [alltrails.com/trail/us/oregon/bluebill-lake-trail](https://www.alltrails.com/trail/us/oregon/bluebill-lake-trail)
 
 **John Dellenback Trail**
 **Trail Length:** 5.4 miles round-trip (There's also a shorter, family-friendly route of just 1 mile)
 **Level of Difficulty:** Moderate- Challenging
 **Trail Features**
+
 * A variety of terrain and sweeping views of the dunes, beach, and coastal forest
 * Stunning vegetation and wildflowers
 * Accessible year-round
@@ -39,6 +40,7 @@ This section of the Oregon Coast Trail, open year-round, is regarded by many as 
 **Trail Length:** 4.7 miles
 **Difficulty:** Easy
 **Trail Features:**
+
 * Premium tide pool exploration opportunities at Sunset Bay State Park & Simpson Beach
 * Shore Acres State Park, the crown jewel of Oregon’s South Coast
 * Great views of Gregory Point and Cape Arago Lighthouse.
@@ -54,10 +56,11 @@ This scenic, oceanfront trail is typically less traveled than other trails menti
 **Trail Length:** The entire loop is 4.3 miles
 **Level of Difficulty:** Moderate- challenging
 **Trail Features:**
+
 * A moderately challenging trek through dense coastal forests
 * A rare World War II bunker hidden among the brush
 * Natural scenery and sweeping views of the Pacific.
-* Views of seals and sea lions on Simpson Reef and Shell Island 
+* Views of seals and sea lions on Simpson Reef and Shell Island
 * More info & maps can be found at https://www.oregonhikers.org/field_guide/Cape_Arago_Loop_Hike
 
 **#4 SOUTH SLOUGH NATIONAL ESTUARINE RESEARCH RESERVE**
@@ -66,6 +69,7 @@ The trails at South Slough National Estuarine Research Reserve (SSNERR) are one 
 **Trail Length:** Ranges from 2.2 miles to 3.5 miles
 **Level of Difficulty:** Easy- Moderate
 **Trail Features:**
+
 * Hiking trails for all ability levels
 * Boardwalk that winds through fresh and saltwater marshes
 * Lush coastal Vegetation and wildlife
@@ -79,6 +83,7 @@ Located a half hour from Coos Bay at the end of Coos River Highway, Golden and S
 **Trail Length:** 1.4 miles
 **Level of Difficulty:** Easy
 **Trail Features:**
+
 * Two of Oregon’s most beautiful waterfalls
 * Lush coastal forests, giant old-growth firs and cedars
 * Picnic tables, restrooms
