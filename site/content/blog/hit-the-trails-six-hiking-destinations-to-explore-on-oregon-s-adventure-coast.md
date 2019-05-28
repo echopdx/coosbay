@@ -4,7 +4,7 @@ date: 2019-05-27T21:00:00-07:00
 description: 'Some of the most stunning and diverse landscapes in the country are
   right here on Oregon''s South Coast. Grab your hiking boots and head this way for
   a beautiful adventure on these five hiking destinations on Oregon’s Adventure Coast. '
-image: ''
+image: "/img/South Slough Hike blog-695x322.jpg"
 tags:
 - Oregon Coast
 - " Hiking"
