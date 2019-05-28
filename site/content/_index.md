@@ -1,8 +1,8 @@
 ---
 title: Oregon's Adventure Coast - Coos Bay - North Bend - Charleston
 slideshow:
-- title: BBQ, Brews & Blues May 24-26
-  photo: "/img/bbq-blues-home-slider-1.jpg"
+- title: Farmer's Market - Thru Oct 30th
+  photo: "/img/farmers-market-home-slider.jpg"
 - title: Being in the Moment
   photo: "/img/Shore-Acres-Couple-Flowers.jpg"
 - photo: "/img/shore-acres-slider.jpg"
