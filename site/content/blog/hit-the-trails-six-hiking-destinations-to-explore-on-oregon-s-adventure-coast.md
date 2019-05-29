@@ -28,12 +28,13 @@ tags:
 - waterfalls
 categories:
 - 'Hiking '
-draft: true
 
 ---
 Summer is here and we think it’s time for you to take a hike! Coos Bay, North Bend and Charleston, Oregon residents and visitors have access to some of the most stunning and diverse landscapes in the country; whether it’s climbing majestic sand dunes or biking through a rugged coastal forest or walking along paths overlooking the Pacific, and now is the time to grab your hiking boots and head this way for a beautiful adventure. 
 
 Here are five hiking destinations to explore this summer (or any time of the year) on Oregon’s Adventure Coast:
+
+*Please note, hiking conditions are subject to weather patterns and other elements outside our control. Please check the websites posted with each listing below before heading out.* 
 
 **#1 OREGON DUNES NATIONAL RECREATION AREA**
 
@@ -47,7 +48,7 @@ When one of the largest areas of temperate coastal sand dunes in the world is lo
 
 * Great for hiking, walking and bird watching
 * Great lake views and extensive boardwalk for wildlife viewing
-* Dogs allowed leash
+* Dogs allowed on leash
 * Open Year Round
 * More info & maps can be found at [alltrails.com/trail/us/oregon/bluebill-lake-trail](https://www.alltrails.com/trail/us/oregon/bluebill-lake-trail)
 
@@ -96,8 +97,7 @@ This scenic, oceanfront trail is typically less traveled than other trails menti
 
 **#4 SOUTH SLOUGH NATIONAL ESTUARINE RESEARCH RESERVE**
 
-![](/img/South Slough Hike blog-695x322.jpg)
-The trails at South Slough National Estuarine Research Reserve (SSNERR) are one of Oregon’s best-kept secrets. In addition to its unbeatable natural surroundings, SSNERR hikers have access to some of the best birding spots that Oregon has to offer, so be sure to bring binoculars with you! Most hikers say that these trails are well maintained and relatively easy to hike, however, there are uphill portions to conquer so be prepared!  We recommend downloading a free trail map if you’re planning to make the trek!
+![](/img/South Slough Hike blog-695x322.jpg) The trails at South Slough National Estuarine Research Reserve (SSNERR) are one of Oregon’s best-kept secrets. In addition to its unbeatable natural surroundings, SSNERR hikers have access to some of the best birding spots that Oregon has to offer, so be sure to bring binoculars with you! Hikers say these trails are well maintained and relatively easy to hike, however, there are uphill portions to conquer so be prepared!  We recommend downloading a free trail map if you’re planning to make the trek!
 
 **Trail Length:** Ranges from 2.2 miles to 3.5 miles
 **Level of Difficulty:** Easy- Moderate
@@ -106,14 +106,14 @@ The trails at South Slough National Estuarine Research Reserve (SSNERR) are one 
 * Hiking trails for all ability levels
 * Boardwalk that winds through fresh and saltwater marshes
 * Lush coastal Vegetation and wildlife
-* Interpretive center,restrooms
+* Interpretive center with restrooms
 * Accessible year-round. Dogs are also able to use this trail but must be kept on leash.
 * More info & maps can be found at [alltrails.com/trail/us/oregon/south-slough](https://www.alltrails.com/trail/us/oregon/south-slough-national-estuarine-research-reserve)
 
 **#5 GOLDEN AND SILVER FALLS**
 
-![](/img/Golden and Silver Falls blog695x322.jpg)
-Located a half hour from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101. A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it’s well worth drive. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss-covered boulders 100 feet below.
+![](/img/Golden and Silver Falls blog695x322.jpg) 
+Located almost an hour's drive from Coos Bay at the end of Coos River Highway, Golden and Silver Falls is 24 miles off Highway 101. A hidden gem in the dense coastal forests of southwest Oregon, Golden and Silver Falls State Natural Area may be hard to find, but it’s well worth drive and the drive is certainly part of the adventure. A small parking and picnic area is located along the banks of Glenn and Silver Creeks, set in an old-growth forest of Douglas fir, Big Leaf Maple and Oregon myrtle trees. Hiking trails wind through scenic canyons to each of the waterfalls that plunge over sheer rock cliffs to moss-covered boulders 100 feet below.
 
 **Trail Length:** 1.4 miles
 **Level of Difficulty:** Easy
