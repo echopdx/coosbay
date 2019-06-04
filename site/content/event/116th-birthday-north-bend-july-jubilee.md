@@ -144,9 +144,9 @@ North Bend July Jubilee Parade**
 Route - Montana - McPherson - Florida - Union California - Meade - Connecticut  
 Participant registration and line-up begins at 11 :30 am on corner of Monroe & Connecticut. Parade route available at the North Bend Visitor Information Center, or [www.julyjubilee.com](http://www.julyjubilee.com)
 
-\**1:00 pm - 2:00 pm  
-Bulldog Promenade  
-\**Grant Circle - 835 California  
+**1:00 pm - 2:00 pm**  
+**Bulldog Promenade**  
+Grant Circle - 835 California  
 Calling all English Bulldogs! Show off your stuff! All English Bulldogs welcome!  
 Register at event I Categories and Judging to be announced  
 Non Sanctioned - Awards - Fun!
