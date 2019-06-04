@@ -52,17 +52,17 @@ Benefits Clambake Music Festival
 Starting at Engles Furniture - 2079 Sherman Ave. Ending at Liberty Theatre - 2100 Sherman Ave. $10 donation for glass & program  
 Sponsored by L TOB and Liberty Theatre.
 
-**7:00 pm -11:00 pm  
+\**7:00 pm -11:00 pm  
 North Bend High School Class Reunions at North Bend Lanes  
-**1225 Virginia Ave.  
+\**1225 Virginia Ave.  
 NBHS Reunion Class of 1989 / Deck  
 NBHS Reunion Class of 1979@ Back Alley
 
 #### Saturday, July 20
 
-**8:00am-9:45am  
-6th Annual JULY JUBILEE JAUNT, 5K Run  
-**North Bend Boardwalk  
+**8:00am-9:45am**  
+**6th Annual JULY JUBILEE JAUNT, 5K Run**  
+North Bend Boardwalk  
 Register online at [www.julyjubilee.com](https://julyjubilee.com/jaunt/) or [runsignup.com/Club/OR/CoosBay/SouthCoastRunningClub2](https://runsignup.com/Race/OR/NorthBend/JulyJubilee)  
 Competing runner - entry fee $10  
 Includes bib and shirt, while they last.  
@@ -74,18 +74,18 @@ Start at the North Bend Boardwalk, California Street; end at Grant Circle. Award
 Part of the Triple Crown Races. Receive one part of a three-piece medal for each run.  
 To sign up and for more information go to [https://www.southcoastrunningclub.org/calendar/](https://www.southcoastrunningclub.org/calendar/ "https://www.southcoastrunningclub.org/calendar/")
 
-**9:00 am-4:00pm  
-Fun at North Bend Lanes  
-**1225 Virginia Ave.
+**9:00 am-4:00pm**  
+**Fun at North Bend Lanes**  
+1225 Virginia Ave.
 
 * 9:00 am - 3:00 pm - Car Show
 * 11 :00 am - 2:00 pm - Jump 4 Fun, Mechanical Bull Riding - Prizes
 * 11 :00 am - 4:00 pm - Outdoor BBQ  
   Hosted by North Bend Lanes.
 
-**9:00 am - 3:00 pm  
-All Car Show 'N Shine  
-**North Bend Lanes - 1225 Virginia Ave.  
+**9:00 am - 3:00 pm**  
+**All Car Show 'N Shine**  
+North Bend Lanes - 1225 Virginia Ave.  
 Open to all Classic & Special interest vehicles, late model Mustangs, Challengers, Camaros & Corvettes. All entrants must be registered, insured, licensed & street legal.
 
 * Registration - 8:00 am
@@ -104,9 +104,9 @@ Winsor Disc Park - Simpson Park
 North end of town - half mile south of bridge Registration at the North Bend Visitor Information Center or at the event.  
 Prizes-BBQ-Fun
 
-**10:00 am - 3:00 pm  
-Pacific Coast Corvette Club  
-**Corvette Car Show -Grant Circle  
+**10:00 am - 3:00 pm**  
+**Pacific Coast Corvette Club**  
+Corvette Car Show -Grant Circle  
 Accepting all Corvettes! America's first true sports car, the Corvette. We invite all Corvette enthusiasts to join us. All Corvette lovers who enjoy fun activities centered around their favorite cars.
 
 #### Other Events Include:
@@ -144,9 +144,9 @@ North Bend July Jubilee Parade**
 Route - Montana - McPherson - Florida - Union California - Meade - Connecticut  
 Participant registration and line-up begins at 11 :30 am on corner of Monroe & Connecticut. Parade route available at the North Bend Visitor Information Center, or [www.julyjubilee.com](http://www.julyjubilee.com)
 
-**1:00 pm - 2:00 pm  
+\**1:00 pm - 2:00 pm  
 Bulldog Promenade  
-**Grant Circle - 835 California  
+\**Grant Circle - 835 California  
 Calling all English Bulldogs! Show off your stuff! All English Bulldogs welcome!  
 Register at event I Categories and Judging to be announced  
 Non Sanctioned - Awards - Fun!
