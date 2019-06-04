@@ -28,7 +28,7 @@ date: '2019-02-10T00:00:00.000+00:00'
 
 ### Schedule of Events:
 
-#### **Friday, July 19**
+### **Friday, July 19**
 
 **9:00 am -11:00 am**  
 **Coffee with a Cop at Ciccarelli's**  
@@ -58,7 +58,7 @@ North Bend High School Class Reunions at North Bend Lanes
 NBHS Reunion Class of 1989 / Deck  
 NBHS Reunion Class of 1979@ Back Alley
 
-#### Saturday, July 20
+### Saturday, July 20
 
 **8:00am-9:45am**  
 **6th Annual JULY JUBILEE JAUNT, 5K Run**  
@@ -109,7 +109,7 @@ Prizes-BBQ-Fun
 Corvette Car Show -Grant Circle  
 Accepting all Corvettes! America's first true sports car, the Corvette. We invite all Corvette enthusiasts to join us. All Corvette lovers who enjoy fun activities centered around their favorite cars.
 
-#### Other Events Include:
+### Other Events Include:
 
 **9:30 am -3:00 pm  
 FREE COMMUNITY PICNIC & FAMILY FUN ACTIVITIES**  
@@ -163,7 +163,7 @@ Live Entertainment with COUNTRY MUSIC!
 2100 Sherman Ave.  
 Tickets available online, [www.ltob.net](http://thelibertytheatre.org/), or at the door.
 
-#### Sunday, July 21
+### Sunday, July 21
 
 **10:00 am - Noon  
 Historical Walk with Dick Wagner**  
