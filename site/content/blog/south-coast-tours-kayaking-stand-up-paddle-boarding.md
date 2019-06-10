@@ -28,7 +28,7 @@ One of Oregon's premier guided tour companies,  [South Coast Tours (SCT)](https:
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsouthcoasttours%2Fposts%2F1942696295832629&width=500" width="500" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-This is welcome news in our community because the calm and peaceful waters on Oregon's Adventure Coast are more accessible than ever for fans of the outdoors and watersports.
+This is welcome news in our community because the beautiful waters on Oregon's Adventure Coast are more accessible than ever for fans of the outdoors and watersports. We can't think of a better destination for watersports than Sunset Bay State Park. Known for its calm waters flanked by offshore rocks and beautiful sandy beaches, this local gem gives ocean lovers easy access to its beaches, making it an ideal location for kayaking and stand-up paddleboarding.
 
 ![](/img/Paddleboarding_sunsetbay_blog-695x322.jpg)
 
@@ -38,10 +38,9 @@ South Coast Tours is no stranger to introducing kayaking, stand up paddle boardi
 
 South Coast Tours Owner & Guide, Dave Lacey, was featured recently on an episode of _Facing Waves_, a TV series that follows seasoned paddlers as they explore the world's top paddling destinations. You can watch the [episode here](https://www.youtube.com/watch?v=S_dtEtCMeD4&feature=youtu.be&fbclid=IwAR2kdoL2kTF8woWAlt5XESDJmnEaR8Rrca3SjGto0oHBKnUKt2BIaIBxoTo).
 
-We can't think of a better destination for watersports than Sunset Bay State Park. Known for its calm waters flanked by offshore rocks and beautiful sandy beaches, this local gem gives ocean lovers easy access to its beaches, making it an ideal location for kayaking and stand-up paddleboarding.
 
 For more local adventure ideas with South Coast Tours, consider the [South Slough Coos Bay Wildlife Viewing Kayak Tour](https://www.southcoasttours.net/tours/kayak-south-slough-coos-bay/) for epic wildlife viewing or explore the Bandon Marsh U.S. Fish and Wildlife National Reserve on their [Bandon Coquille River Tour](https://www.southcoasttours.net/tours/kayak-bandon-coquille-river-tour/).
 
-[Waxer's Surf Shop](http://www.surfwaxers.com/) is also a great resource to [rent kayaks and paddle boards](http://www.surfwaxers.com/rentals-1/) (or purchase) in addition to gear, clothing, and accessories you may need as you explore the Pacific ocean waters, lakes and rivers!
+[Waxer's Surf Shop](http://www.surfwaxers.com/)and Bahama Boards are also great resources to [rent kayaks and paddle boards](http://www.surfwaxers.com/rentals-1/) (or purchase) in addition to gear, clothing, and accessories you may need as you explore the Pacific ocean waters, lakes and rivers!
 
 Whether you're embarking on a guided tour or a self-guided tour, exploring the peaceful waterways along Oregon's South Coast is an unforgettable adventure the entire family can enjoy. Want to learn more? Visit [www.southcoasttours.net](https://www.southcoasttours.net/) to learn more about tours offered on Oregon's South Coast. You can also [contact us](https://oregonsadventurecoast.com/contact/) to get more tips on paddle boarding and kayaking experiences as well as the inside scoop for finding the best local food, events and activities any time of the year.
