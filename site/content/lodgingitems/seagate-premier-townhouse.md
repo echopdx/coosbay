@@ -8,7 +8,7 @@ photo_name: "/img/seagate-premier-properties-lodging.jpg"
 photo_alt: Seagate Townhouse Overlooking Coos Bay
 units: 1
 cost: 3 - $$$
-property_category: 4 - Vacation Rental Homes
+property_category: 1 - Hotels, Motels & Inns
 amenityList:
 - 7 - Kitchens Available
 - 6 - WiFi Available
@@ -21,6 +21,6 @@ address:
 phone_local: ''
 phone_toll_free: ''
 website: https://www.bookairhop.com/listings/5b50b433c5e46b0034ead03c
-date: 2019-02-05 11:54:45 -0800
+date: '2019-02-05T19:54:45.000+00:00'
 
 ---
