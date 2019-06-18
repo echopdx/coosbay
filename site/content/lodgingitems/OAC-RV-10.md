@@ -20,8 +20,8 @@ property_description: Midway between Coos Bay & Charleston on Cape Arago Hwy. Co
   Military, & AAA Discounts.
 website: ''
 amenityList:
-- amenitySelect: 5
-- amenitySelect: 6
-- amenitySelect: 9
+- 5 - Pet Friendly
+- 6 - WiFi Available
+- 9 - Handicap Accessible
 
 ---
