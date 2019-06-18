@@ -1,7 +1,7 @@
 ---
 title: South Coast Tours Bringing Kayaking & Stand-up Paddleboarding Adventures to
   Sunset Bay State Park
-date: 2019-06-11T21:00:00-07:00
+date: 2019-06-12T04:00:00.000+00:00
 description: 'One of Oregon''s premiere guided tour companies,  South Coast Tours
   (SCT), recently announced they will partnering with Oregon State Parks to offer
   kayaking and stand up paddle boarding rental packages from their new location at
@@ -22,7 +22,7 @@ categories:
 ---
 With so many calm lakes, rivers and beaches to choose from, Oregon's Adventure Coast is a haven for Kayaking and Stand-Up Paddleboarding (SUP) and outdoor lovers of all skill levels. Taking a tour with a professional guide is an excellent way to experience the natural beauty of Oregon's south coast like never before.
 
-One of Oregon's premier guided tour companies,  [South Coast Tours (SCT)](https://www.southcoasttours.net), recently announced they are partnering with [Oregon State Parks ]()to offer kayaking and stand up paddle boarding rental packages from their new location at [Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) starting June 15th! Stand up paddle boards and kayaks will be available to rent from 10am-4pm.
+One of Oregon's premier guided tour companies,  [South Coast Tours (SCT)](https://www.southcoasttours.net), recently announced they are partnering with [Oregon State Parks ](https://oregonstateparks.org)to offer kayaking and stand up paddle boarding rental packages from their new location at [Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) starting June 15th! Stand up paddle boards and kayaks will be available to rent from 10am-4pm.
 
 ![](/img/61520351_1931157050319887_3285828540410363904_o.jpg)
 
