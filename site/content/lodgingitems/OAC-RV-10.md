@@ -18,7 +18,7 @@ property_description: Midway between Coos Bay & Charleston on Cape Arago Hwy. Co
   & quiet with large sites, immaculate private restrooms & beautiful landscaping.
   Full Hookups, Dump Station, WiFi, Handicap Accessible, Pets OK, Laundry. Good Sam,
   Military, & AAA Discounts.
-website: ''
+website: https://www.facebook.com/pages/Midway-RV-Park/111696165550961
 amenityList:
 - 5 - Pet Friendly
 - 6 - WiFi Available
