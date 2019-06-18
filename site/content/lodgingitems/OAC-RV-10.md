@@ -3,7 +3,7 @@ photo_name: "/img/Midway-RV.jpg"
 photo_alt: Midway RV Park in Coos Bay, OR
 title: Midway RV Park
 property_name: Midway RV Park
-property_category: ''
+property_category: 2 - RV Parks & Camping
 address:
   street: 92478 Cape Arago Highway
   street2: 
