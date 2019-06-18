@@ -17,6 +17,7 @@ tags:
 - Highway 101
 - transportation
 categories: []
+draft: true
 
 ---
 The Coos Bay, North Bend and Charleston area has always been a relatively easy destination for locals and visitors will to get around in by car and/or bicycle; and when the Coos County Area Transit System (CCAT) introduces it’s brand new trolley service in July, it will be easier!
