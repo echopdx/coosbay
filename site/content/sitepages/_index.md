@@ -28,7 +28,7 @@ This beautiful section of the Oregon coastline is known as Oregon’s Adventure 
 
 {{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
 
-### Explore Our Downtown Walking Maps
+#### Explore Our Downtown Walking Maps
 
 Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
 
