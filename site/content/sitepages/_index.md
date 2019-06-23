@@ -26,7 +26,8 @@ _Where the Soul Meets the Sea!_
 
 This beautiful section of the Oregon coastline is known as Oregon’s Adventure Coast for several reasons and when you arrive in the area, you will easily see why. Check out more information below to see what makes each of our towns unique.
 
-{{< floatimage src="img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
+{{< floatimage src="/img/walking-map-icon.png" float="left" alt="Downtown Walking Map Icon" size="100" >}}
+
 ### Explore Our Downtown Walking Maps
 
 Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
