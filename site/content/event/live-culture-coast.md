@@ -1,6 +1,6 @@
 ---
 title: Live Culture Coast
-photo: ''
+photo: "/img/LCC_STACKED_WAVES-2048x530.jpg"
 largeboxphoto: "/img/live-coast-stand-1024x395.jpg"
 mediumboxphoto: "/img/live-coast-stand-med-667x355.jpg"
 smallboxphoto: "/img/live-culture-logo-sm-340x214.jpg"
@@ -18,6 +18,7 @@ address:
 phone_local: ''
 phone_toll_free: ''
 website: https://www.facebook.com/liveculturecoast
+draft: true
 
 ---
 **Live Culture Coast** is a social probiotic that invites both residents and travelers to more deeply experience Oregon’s south coast. We will weave together the Wild Rivers Coast Food Trail, OCVA’s (Oregon Coast Visitors Association’s) Public Art Trail, The Oregon Coast Trail, Whiskey Run & Wild Rivers Coast Scenic Bikeway, and more outdoor recreation initiatives for a 10 day series of experiences and events at the beginning of off-peak season – October 18th to 27th, 2019.
