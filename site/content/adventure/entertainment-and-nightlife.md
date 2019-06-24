@@ -25,7 +25,7 @@ Here are some of the best local places that support up and coming bands and musi
 
 #### Explore Our Downtown Walking Maps
 
-[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.
+[Explore our Coos Bay & North Bend Downtown Walking Maps by clicking here.](/img/walking-map-cbnb.pdf)Find a mapped list of restaurants, public spaces, retail and entertainment, in our walkable downtowns.<br><br>
 
 {{< columns number="2" >}}
 
