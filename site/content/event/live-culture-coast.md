@@ -1,9 +1,9 @@
 ---
 title: Live Culture Coast
 photo:
-largeboxphoto: /img/live coast stand 1024x395.jpg
-mediumboxphoto: /img/culture stand 667x355.jpg
-smallboxphoto: /img/live culture logo sm 340x214.png
+largeboxphoto: /img/live-coast-stand-1024x395.jpg
+mediumboxphoto: /img/culture-stand-667x355.jpg
+smallboxphoto: /img/live-culture-logo-sm-340x214.png
 desktoptitle: Live Culture Coast
 mobiletitle: Live Culture Coast
 hovertitle: Live Culture Coast
