@@ -20,6 +20,8 @@ phone_toll_free: ''
 website: https://www.facebook.com/liveculturecoast
 
 ---
+![](/img/live-culture-logo-header.jpg)
+
 **Live Culture Coast** is a social probiotic that invites both residents and travelers to more deeply experience Oregon’s south coast. We will weave together the Wild Rivers Coast Food Trail, OCVA’s (Oregon Coast Visitors Association’s) Public Art Trail, The Oregon Coast Trail, Whiskey Run & Wild Rivers Coast Scenic Bikeway, and more outdoor recreation initiatives for a 10 day series of experiences and events at the beginning of off-peak season – October 18th to 27th, 2019.
 
 Beginning on Friday night, October 18th, Coos Bay will showcase a weekend of fermentation workshops, pairings, discussions, and performances. The weekdays will be filled with choose-your-own-adventure activities along a curated route following Highway 101 including restaurants & farms, art installations & galleries, guide services & boats, and other entrepreneurial services that are developed with partners.
