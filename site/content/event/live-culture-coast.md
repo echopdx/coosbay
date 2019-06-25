@@ -1,6 +1,6 @@
 ---
 title: Live Culture Coast
-photo: "/img/LCC_STACKED_WAVES-2048x530.jpg"
+photo: "/img/live-culture-page-header.jpg"
 largeboxphoto: "/img/live-coast-stand-1024x395.jpg"
 mediumboxphoto: "/img/live-coast-stand-med-667x355.jpg"
 smallboxphoto: "/img/live-culture-logo-sm-340x214.jpg"
