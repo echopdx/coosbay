@@ -49,6 +49,7 @@ fields:
     name: image
     label: SEO Image
 pages:
+- site/content/sitepages/fishing-license-requirements.md
 - site/content/sitepages/staff-directory.md
 - site/content/sitepages/sportsman-s-show-contest.md
 - site/content/sitepages/sportsman-show-giveaway.md
