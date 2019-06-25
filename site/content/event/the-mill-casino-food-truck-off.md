@@ -8,14 +8,14 @@ desktoptitle: Mill Casino Food Truck Off
 mobiletitle: Mill Food Trucks
 hovertitle: Mill Food Trucks
 hoverdescription: Food trucks, live music and more!
-startdate: 2019-08-02 00:00:00 +0000
-enddate: 2019-08-04 00:00:00 +0000
+startdate: '2019-08-02'
+enddate: '2019-08-04'
 address:
   city: North Bend
   state: OR
   street: 3201 Tremont St.
   zip: 97459
-phone_local: 541-756-8800
+phone_local: "(541) 756-8800"
 website: https://www.themillcasino.com/entertainment/3rd-annual-food-truck-off/
 seo:
   imgalt: 'Mill Casino Food Truck Off '
