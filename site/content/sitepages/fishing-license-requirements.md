@@ -19,10 +19,15 @@ An Oregon fishing license is required for those age 12 years or older (except d
 
 #### Bi-Mart
 
-2131 Newmark Ave, North Bend  
+2131 Newmark Ave,
+North Bend, OR 97459
 (541) 756-7526  
-550 4th St, Coos Bay  
-(541) 269-9220
+
+550 S. 4th St
+Coos Bay, OR 97420
+541-269-9220
+
+Bi-Mart is your neighborhood store offering great value! Get your fishing license, gear and supplies all in one location.
 
  ++++ 
 
@@ -30,8 +35,10 @@ An Oregon fishing license is required for those age 12 years or older (except d
 
 #### Big 5 Sporting Goods
 
-1659 Virginia Ave, North Bend  
-(541) 751-0522 
+1659 Virginia Ave
+North Bend, OR 97459
+(541) 751-0522
+Get your fishing license and gear at Big 5 Sporting Goods in North Bend!
 
 {{< /columns >}}
 
@@ -40,9 +47,11 @@ An Oregon fishing license is required for those age 12 years or older (except d
 
 #### Walmart
 
-2051 Newmark Ave, Coos Bay  
+2051 Newmark Ave
+Coos Bay, OR 97420  
 (541) 888-5488
 
+Wal-Mart sells fishing gear and fishing licenses for the sport fisherman, along with all the snacks, beverages, coolers, and accessories you might need for your next fishing excursion.
  ++++ 
 
 ![](/img/odfw-fishing-license-pg.jpg)
@@ -50,8 +59,10 @@ An Oregon fishing license is required for those age 12 years or older (except d
 #### ODFW Office
 
 _(Licenses Only)_  
-63538 Boat Basin Drive, Charleston
+63538 Boat Basin Drive
+Charleston, OR 97420
 (541) 888-5515
+ODFW's Charleston office only sells fishing licenses for those last minute visitors who wish to go fishing while in the Charleston Marina but don't have a license.
 {{< /columns >}}
 
 ### BAIT SHOPS
