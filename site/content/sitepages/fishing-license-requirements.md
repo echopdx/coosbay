@@ -17,17 +17,22 @@ An Oregon fishing license is required for those age 12 years or older (except d
 {{< columns number="2" >}}
 ![](/img/bi-mart-fishing-license-pg.jpg)
 
-**Bi-Mart**
-2131 Newmark Ave, North Bend
-(541) 756-7526
-550 4th St, Coos Bay
+#### Bi-Mart
+
+2131 Newmark Ave, North Bend  
+(541) 756-7526  
+550 4th St, Coos Bay  
 (541) 269-9220
-\++++
+
+ ++++ 
+
 ![](/img/big-5-fishing-license-pg.jpg)
 
-**Big 5 Sporting Goods**
-1659 Virginia Ave, North Bend
-(541) 751-0522
+#### Big 5 Sporting Goods
+
+1659 Virginia Ave, North Bend  
+(541) 751-0522 
+
 {{< /columns >}}
 
 {{< columns number="2" >}}
