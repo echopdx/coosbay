@@ -15,22 +15,30 @@ An Oregon fishing license is required for those age 12 years or older (except d
 ### LOCATIONS TO PURCHASE FISHING LICENSES
 
 {{< columns number="2" >}}
+![](/img/bi-mart-fishing-license-pg.jpg)
+
 **Bi-Mart**
 2131 Newmark Ave, North Bend
 (541) 756-7526
 550 4th St, Coos Bay
 (541) 269-9220
 \++++
+![](/img/big-5-fishing-license-pg.jpg)
+
 **Big 5 Sporting Goods**
 1659 Virginia Ave, North Bend
 (541) 751-0522
 {{< /columns >}}
 
 {{< columns number="2" >}}
+![](/img/walmart-fishing-license-pg.jpg)
+
 **Walmart**
 2051 Newmark Ave, Coos Bay
 (541) 888-5488
 \++++
+![](/img/odfw-fishing-license-pg.jpg)
+
 **ODFW Office**  
 _(Licenses Only)_  
 63538 Boat Basin Drive, Charleston
@@ -40,10 +48,14 @@ _(Licenses Only)_
 ### BAIT SHOPS
 
 {{< columns number="2" >}}
+![](/img/basin-tackle-fishing-license-bait.jpg)
+
 **Basin Tackle Shop**
 63510 Kingfisher Rd, Coos Bay
 (541) 888-FISH
 \++++
+![](/img/bites-on-fishing-license-bait-pg.jpg)
+
 **Bites-On Tackle**
 750 Newmark Ave, Coos Bay
 (541) 888-4015
