@@ -14,7 +14,7 @@ An Oregon fishing license is required for those age 12 years or older (except d
 
 ### PURCHASE FISHING LICENSES
 
-[{{< floatimage src="/img/odfw-logo.png" float="left" alt="Purchase a Fishing License Online from the ODFW" size="100" >}}! Purchase a Fishing License Online from the Oregon Department of Fish & Wildlife.](https://myodfw.com/articles/how-buy-license-or-tag)
+[{{< floatimage src="/img/odfw-logo.png" float="left" alt="Purchase a Fishing License Online from the ODFW" size="100" >}}! Purchase a Fishing License or Tag Online from the Oregon Department of Fish & Wildlife.](https://myodfw.com/articles/how-buy-license-or-tag)
 
 {{< columns number="2" >}}
 ![](/img/bi-mart-fishing-license-pg.jpg)
