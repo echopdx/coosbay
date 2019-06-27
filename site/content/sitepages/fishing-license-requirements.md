@@ -14,6 +14,7 @@ An Oregon fishing license is required for those age 12 years or older (except d
 
 ### LOCATIONS TO PURCHASE FISHING LICENSES
 
+
 {{< columns number="2" >}}
 ![](/img/bi-mart-fishing-license-pg.jpg)
 
@@ -66,6 +67,7 @@ Charleston, OR 97420<br>
 _(Licenses Only)_ ODFW's Charleston office only sells fishing licenses for those last minute visitors who wish to go fishing while in the Charleston Marina but don't have a license. {{< /columns >}}
 
 ### BAIT SHOPS
+
 
 {{< columns number="2" >}}
 ![](/img/basin-tackle-fishing-license-bait.jpg)
