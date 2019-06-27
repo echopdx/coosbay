@@ -21,6 +21,10 @@ There are more than [30 lakes and rivers](/tripideas/fresh-water-fishing-options
 
 We’ve put together a [list of resources](/img/rackcard-fishing-03-18.pdf) that will be helpful in planning your trip. Be sure to visit one of our [bait shops](/equipment-rent-and-buy) while in the area, they’re always willing to share pointers with visiting anglers.
 
+### Fishing License Requirements
+
+An Oregon fishing license is required for those age 12 years or older (except during one “free fishing weekend” in June when licenses or tags are NOT required). Daily licenses available. Most fishing charters, bait shops and sporting goods stores can supply these for you. [Check out our fishing license requirement page for where to buy a licenses and bait. ](https://oregonsadventurecoast.com/fishing-license-requirements/)
+
 <div class="clearfix margin-20px-top"></div>
 
 {{< floatimage src="/img/fishing-rackcard.png" float="left" alt="Fishing Information Rack Card PDF" size="20" >}}
