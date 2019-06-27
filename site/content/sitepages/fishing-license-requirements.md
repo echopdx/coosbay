@@ -18,7 +18,7 @@ An Oregon fishing license is required for those age 12 years or older (except d
 {{< columns number="2" >}}
 ![](/img/bi-mart-fishing-license-pg.jpg)
 
-**Bi-Mart**
+**Bi-Mart**<br>
 2131 Newmark Avenue<br>
 North Bend, OR 97459<br>
 (541) 756-7526
@@ -33,7 +33,7 @@ Bi-Mart is your neighborhood store offering great value! Get your fishing licens
 
 ![](/img/big-5-fishing-license-pg.jpg)
 
-**Big 5 Sporting Goods**
+**Big 5 Sporting Goods**<br>
 1659 Virginia Avenue<br>
 North Bend, OR 97459<br>
 (541) 751-0522
@@ -45,7 +45,7 @@ Get your fishing license and gear at Big 5 Sporting Goods in North Bend!
 {{< columns number="2" >}}
 ![](/img/walmart-fishing-license-pg.jpg)
 
-**Wal-Mart**
+**Wal-Mart**<br>
 2051 Newmark Avenue<br>
 Coos Bay, OR 97420<br>
 (541) 888-5488
@@ -55,7 +55,7 @@ Wal-Mart sells fishing gear and fishing licenses for the sport fisherman, along 
 
 ![](/img/odfw-fishing-license-pg-02.jpg)
 
-**ODFW Charleston Office**
+**ODFW Charleston Office**<br>
 63538 Boat Basin Drive<br>
 Charleston, OR 97420<br>
 (541) 888-5515
@@ -68,7 +68,7 @@ _(Licenses Only)_ ODFW's Charleston office only sells fishing licenses for those
 {{< columns number="2" >}}
 ![](/img/basin-tackle-fishing-license-bait.jpg)
 
-**Basin Tackle Shop**
+**Basin Tackle Shop**<br>
 63510 Kingfisher Road<br>
 Charleston, OR 97420<br>
 (541) 888-FISH
@@ -78,7 +78,7 @@ Basin Tackle is located in the Charleston Marina. With friendly, helpful, and so
 
 ![](/img/bites-on-fishing-license-bait-pg.jpg)
 
-**Bites On Tackle**
+**Bites On Tackle**<br>
 750 Newmark Aveunue<br>
 Coos Bay, OR 97420<br>
 (541) 888-4015
