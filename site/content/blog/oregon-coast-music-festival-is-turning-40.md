@@ -8,9 +8,15 @@ description: The 2019 Oregon Coast Music Festival line-up blends concerts from a
 tags:
 - Entertainment & Nightlife
 - Fairs & Festivals
+- Oregon Coast Music Festival
+- music festival
+- James Paul
+- Festival Orchestra
+- Shore Acres State Park
+- 'Outdoor concerts '
+- 7 Devils Brewery
 categories: []
 image: "/img/Oregon Coast Musical Festival Blog_695x322.jpg"
-draft: true
 
 ---
 #### Featured Event: Oregon Coast Music Festival \~ July 13 to July 27, 2019
@@ -47,8 +53,7 @@ From the Wizard of Oz to Mary Poppins and Beauty and The Beast, the Dolphin Play
 
 **Monday July 22 at 7 p.m. \~** [**Salute to Children’s Musicals**](http://www.oregoncoastmusic.org/salute-to-childrens-musicals/) **at Dolphin Playhouse, Coos Bay.**
 
-**July 23rd at 7:30 p.m. \~** [**Orchestra Concert I: “World Premiere Night”**](http://www.oregoncoastmusic.org/concert-i/) **at Marshfield High School Auditorium, Coos Bay**
-The one-and-only Festival Orchestra, an 80-piece professional orchestra comprised of elite regional, national and international musicians will be led once again by renowned conductor, James Paul. The program will feature selections by Mozart, Runestad and Stravinsky. Concert I tickets are $20-$25. Click here for tickets. http://www.oregoncoastmusic.org/product/orchestra-i-tickets/  Event Sponsored by Elizabeth and Justus Schlichting.
+**July 23rd at 7:30 p.m. \~** [**Orchestra Concert I: “World Premiere Night”**](http://www.oregoncoastmusic.org/concert-i/) **at Marshfield High School Auditorium, Coos Bay** The one-and-only Festival Orchestra, an 80-piece professional orchestra comprised of elite regional, national and international musicians will be led once again by renowned conductor, James Paul. The program will feature selections by Mozart, Runestad and Stravinsky. Concert I tickets are $20-$25. [Click here for tickets](http://www.oregoncoastmusic.org/product/orchestra-i-tickets/).  Event Sponsored by Elizabeth and Justus Schlichting.
 
 **Wednesday, July 24 at 7:30 p.m. \~** [**Sarah Shook and the Disarmers**](http://www.oregoncoastmusic.org/sarah-shook-and-the-disarmers/) **at 7 Devils Public House, Coos Bay.** This event is free and sponsored by 7 Devils Brewery.
 
