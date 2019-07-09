@@ -1,9 +1,8 @@
 ---
-title: Oregon Coast Music Festival is Turning 40!
-date: 2018-04-12T13:34:38.000+00:00
-description: The longest running music festival on the Oregon Coast is turning 40!
-  The 40th Annual Oregon Coast Music Festival is happening Tuesday, July 24th through
-  Saturday, July 28th, 2018.
+title: '2019 Oregon Coast Music Festival is An Exciting Blend of New Artists and Familiar
+  Sounds '
+date: 2018-07-10T06:34:38-07:00
+description: '2019 Oregon Coast Music Festival Blends New Artists with Familiar Sounds '
 tags:
 - Entertainment & Nightlife
 - Fairs & Festivals
@@ -15,68 +14,69 @@ draft: true
 ---
 <em>Photo @ OCMF</em>
 
-<h4>The Coast Comes Alive with Sounds of Music July 24th-28th, 2018</h4>
+<h4>Featured Event: Oregon Coast Music Festival ~ July 13 to July 27, 2019</h4>
 
-The longest running music festival on the Oregon Coast is turning 40! The 40th Annual <a href="http://www.oregoncoastmusic.org/" target="_blank" rel="noopener noreferrer">Oregon Coast Music Festival</a> is happening<strong> Tuesday, July 24th through Saturday, July 28th, 2018.</strong>
+The <a href="http://www.oregoncoastmusic.org/" target="_blank" rel="noopener noreferrer">Oregon Coast Music Festival</a>, the longest running music festival on the Oregon Coast is coming back this month and better than ever! This year's festival is blending concerts from a variety of genres that range from American standards, modern folk, musical theatre, blues, indie, classical, jazz and so much more.  
+
+The only festival of its kind in southwestern Oregon, OCMF has been listed on TravelMag.Com's <a href="http://www.travelmag.com/articles/festivals-oregon-summer/" target="_blank" rel="noopener noreferrer">List of Best Festivals </a>. 
+Ticket prices to these concerts range from $10- $50. Several events are free with donations gladly accepted. 
+
+The concert schedule below is supplemented with Noon Lectures with Adam Stern. July 22, 24, and 26 and a Youth Interpretive Workshop on July 25, 10am.
+
+2019 OCMF Concert Line-Up
+
+Saturday, July 13th @ 12 p.m. OCMA Festival Outdoor Kickoff at Mingus Park http://www.oregoncoastmusic.org/bay-area-concert-band-festival-kick-off/
+The 2019 festival will kick off this Saturday, July 13th at noon with a performance by the Bay Area Concert Band in beautiful Mingus Park. Bring a blanket, a chair and enjoy the music! No ticket required, donations gladly accepted. 
+
+Tuesday, July 16 at 7 p.m. John Craigie at OIMB Boathouse, Charleston http://www.oregoncoastmusic.org/john-craigie-at-the-boat-house/
+Renowned for his eloquent Americana style, engaging live shows, and off-the-cuff clever observations, John Craigie carries on the legacy of classic singer-songwriters, while blazing a trail of his own. His music speaks loud to both audiences and fellow artists. Event is sponsored by 7 Devils Brewery. Admission is $20 Admission. Click here to purchase tickets. https://www.7devilsbrewery.com/store/p15/johncraigie-tix.html
+
+Wednesday, July 17, at 7 p.m. Delta Bluesmen David Pinsky & Phil Newton at Liberty Pub, North Bend (21 and over)
+http://www.oregoncoastmusic.org/delta-bluesmen-david-pinsky-phil-newton/
+This acoustic/electric duo has been a big part of the Southern Oregon Blues scene for more than 30 years. David’s propulsive guitar, welded with Phil’s harmonica chops, provide a steady groove reminiscent of the 60’s Chicago style duets. $10 Admission
+
+Thursday, July 18 at 7:30 p.m., River Whyless at Front Street Provisioners, Coos Bay
+http://www.oregoncoastmusic.org/river-whyless/
+This Asheville, North Carolina folk-rock quartet will mesmerize audiences with exceptional songwriting and vocal talents as well as a special blend of violin, guitars, drums, harmonium, cello, banjo, toy piano and vocal harmonies. Event is sponsored by 7 Devils Brewery. Admission is $20 Admission. Click here to purchase tickets. https://www.7devilsbrewery.com/store/p16/river-whyless-tix.html
+
+Thursday, July 18 at 7:30 p.m.,Sarah Shook and the Disarmers at 7 Devils Public House, Coos Bay. 
+http://www.oregoncoastmusic.org/sarah-shook-and-the-disarmers/
+Inspired by artists such as the Sex Pistols, Elliott Smith and Hank Williams, Sarah Shook sings with confidence, control, and at times, a hint of menace. The Disarmers match her on every track, coloring the tales of resilience and empathy with as much urgency as ever as well as a broader sonic sweep. This event is free and sponsored by 7 Devils Brewery. 
+
+Saturday, July 20, 2019, Che’s Lounge the Band at Shore Acres State Park, Charleston
+http://www.oregoncoastmusic.org/ches-lounge-the-band-at-shore-acres/
+Join the celebration of the return of the Shore Acres outdoor concert and picnic! Che’s Lounge, a local favorite, combines elements of Funk, Jazz, Soul, and New Americana with expressive songwriting and masterful vocals, bass, guitar, keyboard and percussion. Event is sponsored by Friends of Shore Acres, Christine Moffitt. Admission is free. 
+
+Sunday, July 21, 2019 at 2 p.m. Jazz at the OIMB Boathouse with Aaron Johnson Trio http://www.oregoncoastmusic.org/boat-house-concert-reception/
+The Aaron Johnson Trio will perform a range of classical Jazz compositions as “Bernstein and Beyond: from west side story to Gershwin’s New York”.  This event is sponsored by Blair Holman & Ginny Tabor and features a catered reception at Intermission by Black Market Gourmet. Tickets are $40 for members, $50 for non-members. Click here to purchase tickets. http://www.oregoncoastmusic.org/product/aaron-johnson-trio-at-the-oimb-boathouse/ Event is nearly sold out, please call 541-267-0938 for availability. 
+
+Sunday July 21 at 2 p.m. Salute to Children’s Musicals at Dolphin Playhouse,Coos Bay
+http://www.oregoncoastmusic.org/salute-to-childrens-musicals/
+From the Wizard of Oz to Mary Poppins and Beauty and The Beast, the Dolphin Players Salute presents a family-friendly tribute to musicial theatre classics and new works featured on broadway and in film. This performance is free, donations gratefully accepted. For reservations or more information, contact the Dolphin Playhouse at 541-808-2611, by email at dolphinplayers@gmail.com, through the website at thedolphinplayers.webs.com, or on Facebook.
+
+Monday July 22 at 7 p.m. Salute to Children’s Musicals at Dolphin Playhouse,Coos Bay
+http://www.oregoncoastmusic.org/salute-to-childrens-musicals/
+
+July 23rd at 7:30 p.m. Orchestra Concert I: “World Premiere Night”
+Marshfield High School Auditorium, Coos Bay
+http://www.oregoncoastmusic.org/concert-i/
+The one-and-only Festival Orchestra, an 80-piece professional orchestra comprised of elite regional, national and international musicians will be led once again by reknowned conductor, James Paul. The program will feature selections by Mozart, Runestad and Stravinsky. Concert I tickets are $20-$25. Click here for tickets. http://www.oregoncoastmusic.org/product/orchestra-i-tickets/  Event Sponsored by Elizabeth and Justus Schlichting.
+
+Wednesday, July 24 at 7:30 p.m. Sarah Shook and the Disarmers at 7 Devils Public House, Coos Bay. 
+http://www.oregoncoastmusic.org/sarah-shook-and-the-disarmers/
+This event is free and sponsored by 7 Devils Brewery. 
+
+Thursday, July 25th, 7:30 p.m. Pops Concert: “Youth Has No Age” at Marshfield High School Auditorium, Coos Bay
+http://www.oregoncoastmusic.org/pops-concert/
+Music for, by, and about children, featuring music from the films The Wizard of Oz and Harry Potter and the Goblet of Fire, a medley from the musical Annie, and Prokofiev’s Peter and the Wolf narrated by Maestro James Paul. Additional youth interpretive workshop provided at rehearsal by Assistant Conductor Adam Stern. Tickets are $20-$25. Click here for tickets. http://www.oregoncoastmusic.org/product/pops-tickets/
+
+Saturday July 27th 2019 at 7:30 p.m., Orchestra Concert II: “Musical Magic” at Marshfield High School Auditorium, Coos Bay. 
+Conductor James Paul and the Festival Orchestra will close out the 2019 Oregon Coast music festival with an evening of musical magic featuring works by Brahms, Sibelius, Faure and Copland. Listening to these talented musicians perform under the direction of a world-class conductor is a special opportunity for South Coast residents and visitors to experience classical music as it was intended to be heard. Concert II Tickets are $15- $25. Click here for tickets. http://www.oregoncoastmusic.org/product/pops-tickets/
 
 
+Tickets to many of these events will be available for purchase at Off the Record in the North Bend Bi-Mart Shopping Plaza. 2227 B Newmark Ave, North Bend, OR  97459 – (541) 751-0301. 
 
-The Oregon Coast Music Festival (OCMF) had its beginnings in 1978, when Dr. Charles Heiden and his family moved to Coos Bay with the idea of encouraging local children to learn about orchestral music. Heiden, who had previously served as professor of violin at Willamette University, came to the coast to plant the seeds of appreciation for this music.
-
-
-
-The only festival of its kind in southwestern Oregon, OCMF has been listed on TravelMag.Com's <a href="http://www.travelmag.com/articles/festivals-oregon-summer/" target="_blank" rel="noopener noreferrer">List of Best Festivals </a> and has even caught the attention of <a href="http://www.frommers.com/blog/" target="_blank" rel="noopener noreferrer">Travel Guru Arthur Frommer </a> who said he was "bowled over by its ambitions and quality" and had this to say about our area:
-
-
-
-"The Oregon coast is one of the most under-rated tourist attractions in America; its visitors, though substantial in number, are nowhere near what it should be receiving. The coast is largely underdeveloped, and is awesome in its natural wonders and beauty, its many state parks, its quaint seaside towns….with high-quality seafood restaurants."
-
-
-
-Each year, the highlight of OCMF has been the outstanding performances given by the one-and-only Festival Orchestra, an 80-piece professional orchestra comprised of elite regional, national and international musicians. James Paul, Conductor and Music Director of the Festival Orchestra since 1991, is widely acclaimed as one of North America’s most esteemed conductors. Listening to these talented musicians perform under the direction of world-class conductors is a special opportunity for South Coast residents and visitors to experience classical music as it was intended to be heard.
-
-
-
-This year's festival will feature a special pre-festival jazz concert from the Darrell Grant Combo in addition to three classical concerts performed by the official Festival Symphony Orchestra.
-
-<h4><a href="https://www.oregoncoastmusic.org/boathouse-concert-the-darrell-grant-combo/" target="_blank" rel="noopener noreferrer">Boathouse Concert – The Darrell Grant Combo</a></h4>
-
-Time: Sunday, July 22, 2018, at 2:00 pm
-
-Location: OIMB Boathouse in Charleston
-
-The Oregon Coast Music Association is delighted to welcome the return of Darrell Grant. Darrell brings with his All 4 Naught colleagues Eric Gruber, Tyson Stubelek, and guest vocalist Danielle Barker The afternoon will include a champagne reception catered by Black Market Gourmet
-
-<h4><a href="https://www.oregoncoastmusic.org/concert-i-once-upon-a-time/" target="_blank" rel="noopener noreferrer">Concert I – “Once Upon a Time”</a></h4>
-
-Time: Tuesday, July 24th, 2018 at 7:30 pm
-
-Location: Marshfield High School Auditorium, Coos Bay
-
-Conductor James Paul will lead the Festival Symphony Orchestra Wagner: Three excerpts from “Die Meistersinger”. Grieg: Lyric Suite, Op 54 and Rimsky-Korsakov: Scheherazade
-
-<h4><a href="https://www.oregoncoastmusic.org/pops-concert-therell-always-be-an-england/" target="_blank" rel="noopener noreferrer">Pops Concert: “There’ll Always Be an England”</a></h4>
-
-Time: Thursday, July 26th, 2018 at 7:30 pm
-
-Location: Marshfield High School Auditorium, Coos Bay
-
-A British invasion with music by Lerner &amp; Lowe, Cole Porter, The Who, The Beatles and more
-
-<h4><a href="https://www.oregoncoastmusic.org/concert-ii-concert-favorites/" target="_blank" rel="noopener noreferrer">Concert II: “Concert Favorites”</a></h4>
-
-Time: Saturday, July 28th, 2018
-
-Location: Marshfield High School Auditorium, Coos Bay
-
-Conductor James Paul will again lead the selections from Ponchielli: Dance of the Hours from
-
-“La Gioconda”, Strauss, R: Don Juan, Op. 20 and Brahms: Symphony No. 4 in e minor
-
-
-
-It's never too soon to begin planning for one of Oregon's most unique music festivals! For schedule, more info and tickets visit <a href="http://www.oregoncoastmusic.org/" target="_blank" rel="noopener noreferrer">www.OregonCoastMusic.org</a>, or call 541-269-0938. Get your tickets and <a href="http://oregonsadventurecoast.com/lodging/">book your accomodations</a> today.
-
+For detailed info and tickets visit <a href="http://www.oregoncoastmusic.org/" target="_blank" rel="noopener noreferrer">www.OregonCoastMusic.org</a>, or call 541-269-0938. Get your tickets and <a href="http://oregonsadventurecoast.com/lodging/">book your accomodations</a> today.
 
 
 Be sure you leave time between performances to enjoy our area’s attractions and state parks, beaches, delicious seafood, sand dunes, fishing and more. When planning your vacation to Coos Bay, North Bend, and Charleston, be sure to utilize <a href="http://www.oregonsadventurecoast.com" target="_blank" rel="noopener noreferrer">Oregon's Adventure Coast </a>as your guide. We continuously update our <a href="http://www.facebook.com/OregonsAdventureCoast" target="_blank" rel="noopener noreferrer">Facebook Page</a>- so be sure to check back frequently so you don't miss out!
