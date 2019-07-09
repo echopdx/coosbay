@@ -1,7 +1,7 @@
 ---
 title: '2019 Oregon Coast Music Festival is An Exciting Blend of New Artists and Familiar
   Sounds '
-date: 2018-07-10T06:34:38-07:00
+date: 2019-07-09T00:00:00-07:00
 description: The 2019 Oregon Coast Music Festival line-up blends concerts from a variety
   of genres ranging from American standards, modern folk, musical theatre, blues,
   indie, classical, jazz and so much more.
