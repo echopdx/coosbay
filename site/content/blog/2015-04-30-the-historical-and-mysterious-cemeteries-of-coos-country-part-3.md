@@ -16,6 +16,7 @@ tags:
 categories:
 - Historical
 image: ''
+draft: true
 
 ---
 **For the full article along with impressive images,** [**visit the original blog post HERE**](https://pacificnorthwestadventures.weebly.com/blog/8-coos-county-cemeteries)**.**
@@ -27,6 +28,7 @@ In this post, guest writer Steven Michael of [Steven Michael Photography](https:
 ### [Historical Cemeteries of Coos County By Steven Michael](https://www.facebook.com/StevenMichaelPhotographyOregon?ref=br_tf "Steven Michael Photography")
 
 ## Fairview Cemetery
+
 <div id="attachment_66815" style="width: 684px" class="wp-caption aligncenter">
 <img class="size-large wp-image-66815" src="/wp-content/uploads/2015/04/6365401_orig-674x449.jpg" alt="Fairview Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/6365401_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/6365401_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/6365401_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/6365401_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/6365401_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
 
