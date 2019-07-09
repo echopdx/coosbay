@@ -20,14 +20,13 @@ image: ''
 ---
 **For the full article along with impressive images,** [**visit the original blog post HERE**](https://pacificnorthwestadventures.weebly.com/blog/8-coos-county-cemeteries)**.**
 
-If you have been following the adventures of our guest writer Steven Michael, you know that the Southern Oregon Coast is full of mystery. The beautiful <a href="http://www.findagrave.com/cgi-bin/fg.cgi?page=csr&CScnty=2210&CSsr=41&" target="_blank">historical cemeteries</a> in and around Coos Country are excellent places to uncover the fascinating history behind the community we are today.
+If you have been following the adventures of our guest writer Steven Michael, you know that the Southern Oregon Coast is full of mystery. The beautiful [historical cemeteries](http://www.findagrave.com/cgi-bin/fg.cgi?page=csr&CScnty=2210&CSsr=41&) in and around Coos Country are excellent places to uncover the fascinating history behind the community we are today.
 
-In this post, guest writer Steven Michael of <a title="Steven Michael Facebook page" href="https://www.facebook.com/StevenMichaelPhotographyOregon?ref=br_tf" target="_blank">Steven Michael Photography </a>shares more examples of the many interesting, scenic and historic cemeteries in Coos County we recommend exploring.
+In this post, guest writer Steven Michael of [Steven Michael Photography](https://www.facebook.com/StevenMichaelPhotographyOregon?ref=br_tf) shares more examples of the many interesting, scenic and historic cemeteries in Coos County we recommend exploring.
 
-### <a title="Steven Michael Photography" href="https://www.facebook.com/StevenMichaelPhotographyOregon?ref=br_tf" target="_blank">Historical Cemeteries of Coos County By Steven Michael</a>
+### [Historical Cemeteries of Coos County By Steven Michael](https://www.facebook.com/StevenMichaelPhotographyOregon?ref=br_tf "Steven Michael Photography")
 
 ## Fairview Cemetery
-
 <div id="attachment_66815" style="width: 684px" class="wp-caption aligncenter">
 <img class="size-large wp-image-66815" src="/wp-content/uploads/2015/04/6365401_orig-674x449.jpg" alt="Fairview Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/6365401_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/6365401_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/6365401_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/6365401_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/6365401_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
 
@@ -62,7 +61,7 @@ The Fairview Cemetery has unofficially been the destination cemetery used for th
 
 The cemetery has an equal amount of the older upright headstone and the newer flat “lawn” style headstones. Make sure you visit the cemetery during the day, for the cemetery is on private property, but it is open to the public to visit anytime when the gate is open.
 
-## Bullard Family Cemetery
+Bullard Family Cemetery
 
 <div id="attachment_66819" style="width: 684px" class="wp-caption aligncenter">
 <img class="size-large wp-image-66819" src="/wp-content/uploads/2015/04/8316837_orig-674x449.jpg" alt="Bullard Family Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/8316837_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/8316837_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/8316837_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/8316837_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/8316837_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
@@ -88,7 +87,7 @@ Bullard Family Cemetery
 </p>
 </div>
 
-## Norway “Pioneer” Cemetery
+Norway “Pioneer” Cemetery
 
 <div id="attachment_66821" style="width: 572px" class="wp-caption aligncenter">
 <img class="wp-image-66821 size-full" src="/wp-content/uploads/2015/04/combine_images.jpg" alt="Norway "Pioneer" Cemetery" width="562" height="838" srcset="/wp-content/uploads/2015/04/combine_images.jpg 562w, /wp-content/uploads/2015/04/combine_images-80x120.jpg 80w, /wp-content/uploads/2015/04/combine_images-89x133.jpg 89w" sizes="(max-width: 562px) 100vw, 562px" />
@@ -108,7 +107,7 @@ The Norway Cemetery resides on a steep grassy hillside surrounded by a forest of
 
 Several names that played huge rolls in the development of the towns throughout the Coquille River Valley can be found throughout the cemetery grounds.
 
-## Gravelford Pioneer Cemetery
+Gravelford Pioneer Cemetery
 
 <div id="attachment_66822" style="width: 684px" class="wp-caption aligncenter">
 <img class="size-large wp-image-66822" src="/wp-content/uploads/2015/04/6073247_orig-674x449.jpg" alt="Gravelford Pioneer Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/6073247_orig-674x449.jpg 674w, /wp-content/uploads/2015/04/6073247_orig-200x133.jpg 200w, /wp-content/uploads/2015/04/6073247_orig-254x168.jpg 254w, /wp-content/uploads/2015/04/6073247_orig-120x80.jpg 120w, /wp-content/uploads/2015/04/6073247_orig.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
@@ -128,8 +127,6 @@ The dominate families in the cemetery are the Hobson’s, Bright’s and Shook�
 
 Life on the farm was not easy and these families are witness to such hardships. Two-and-a-half year-old J.H. Chandler died in 1884, the same year the cemetery was established. Over the years, a healthy growing Douglas Fir’s roots have been encroaching upon the headstone, “hugging” it around its base.
 
- 
-
 <div id="attachment_66825" style="width: 684px" class="wp-caption aligncenter">
 <img class="size-large wp-image-66825" src="/wp-content/uploads/2015/04/9331431_orig-1-674x449.jpg" alt="Historical Cemetery" width="674" height="449" srcset="/wp-content/uploads/2015/04/9331431_orig-1-674x449.jpg 674w, /wp-content/uploads/2015/04/9331431_orig-1-200x133.jpg 200w, /wp-content/uploads/2015/04/9331431_orig-1-254x168.jpg 254w, /wp-content/uploads/2015/04/9331431_orig-1-120x80.jpg 120w, /wp-content/uploads/2015/04/9331431_orig-1.jpg 1100w" sizes="(max-width: 674px) 100vw, 674px" />
 
@@ -138,7 +135,7 @@ Two-and-a-half year-old J.H. Chandler died in 1884.
 </p>
 </div>
 
-## Coos County Cemetery Map Locator
+Coos County Cemetery Map Locator
 
 The Coos County Cemeteries featured in this series of posts are listed and numbered in YELLOW. An additional seven Coos County Cemeteries are listed in BLUE that are just as historic, unique, and worth visiting. If you love cemeteries, then you’ll love all the cemeteries listed in yellow and in blue.
 
@@ -146,7 +143,7 @@ The Coos County Cemeteries featured in this series of posts are listed and numbe
 
 A cemetery can be a powerful place. Suddenly everything has perspective: our problems and mistakes, our challenges and dreams, our values and priorities. To walk amongst the headstones digesting that all we take with us are our deeds and who we have become, what potential we have realized and the value of our service to those we love. A cemetery is authoritative in its unassuming way of humbling us, and yet empowering in its wake-up call for us to appreciate what we have here and now and all the opportunities and pleasures life offers.
 
-**About the Author & Photographer:**
+About the Author & Photographer:
 
 Steven Michael is an award winning photographer, a published author, and illustrator who has lived on the Oregon Coast for most of his life. He has ventured and explored the entire length of the coast, photographing what he discovers. He is known as the Ambassador of the Southern Oregon Coast. If you would like to follow Steven Michael on one of his adventures or learn more about Steven Michael Photography, connect with him on his <a href="https://www.facebook.com/StevenMichaelPhotographyOregon" target="_blank">Facebook Page</a> or visit his site, <a href="http://pacificnorthwestadventures.weebly.com/" target="_blank">Pacific Northwest Adventures</a>.
 
