@@ -8,9 +8,8 @@ description: The 2019 Oregon Coast Music Festival line-up blends concerts from a
 tags:
 - Entertainment & Nightlife
 - Fairs & Festivals
-categories:
-- Miscellaneous
-image: "/img/04-12-18-or-coast-musfest.jpg"
+categories: []
+image: "/img/Oregon Coast Musical Festival Blog_695x322.jpg"
 draft: true
 
 ---
