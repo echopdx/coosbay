@@ -1,6 +1,6 @@
 ---
 title: The Historical and Mysterious Cemeteries of Coos Country (Part 3)
-date: 2019-07-09T00:00:00-07:00
+date: 2017-07-09T00:03:00-07:00
 description: If you have been following the adventures of our guest writer Steven
   Michael, you know that the Southern Oregon Coast is full of mystery. The beautiful
   historical cemeteries in and around Coos Country are excellent places to uncover
