@@ -23,6 +23,7 @@ categories:
 - Culture & Museums
 - Miscellaneous
 image: ''
+draft: true
 
 ---
 Fall is one of our favorite times of year here on the southern Oregon coast. Not only do we have fabulous festivals and events happening almost every weekend, Coos Bay visitors and residents are treated to fabulous free musical entertainment every Tuesday evening thanks to &#8220;Music on The Bay&#8221;, a local non-profit that strives to bring musical excellence to Oregon&#8217;s South Coast.
