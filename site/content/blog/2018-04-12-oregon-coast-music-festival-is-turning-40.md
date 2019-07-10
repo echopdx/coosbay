@@ -10,6 +10,7 @@ tags:
 categories:
 - Miscellaneous
 image: "/img/04-12-18-or-coast-musfest.jpg"
+draft: true
 
 ---
 <em>Photo @ OCMF</em>
