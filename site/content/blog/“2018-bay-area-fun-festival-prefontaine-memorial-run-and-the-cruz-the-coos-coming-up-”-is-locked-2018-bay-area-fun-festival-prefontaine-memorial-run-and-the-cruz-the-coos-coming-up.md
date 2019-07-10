@@ -1,25 +1,26 @@
 ---
-title: ' 2018 Bay Area Fun Festival, Prefontaine Memorial Run and The Cruz the Coos Coming Up!'
-date: '2018-08-01T11:07:49-07:00'
-description: >-
-  The Bay Area Fun Festival is coming up September 15-16, 2018 and there is
-  already plenty of buzz about this year's event! Thousands of locals and
-  visitors from afar come to enjoy the sights, sounds and tastes of beautiful
-  downtown Coos Bay and surrounding areas for this popular festival. Book your
-  accommodations soon so your group can enjoy the fun!
+title: " 2018 Bay Area Fun Festival, Prefontaine Memorial Run and The Cruz the Coos
+  Coming Up!"
+date: 2018-08-01T11:07:49-07:00
+description: The Bay Area Fun Festival is coming up September 15-16, 2018 and there
+  is already plenty of buzz about this year's event! Thousands of locals and visitors
+  from afar come to enjoy the sights, sounds and tastes of beautiful downtown Coos
+  Bay and surrounding areas for this popular festival. Book your accommodations soon
+  so your group can enjoy the fun!
 tags:
-  - Bay Area Fun Festival
-  - Beaches
-  - Charleston
-  - Coast
-  - Coos Bay
-  - North Bend
-  - Oregon
-  - recreation
-  - Steve Prefontaine
+- Bay Area Fun Festival
+- Beaches
+- Charleston
+- Coast
+- Coos Bay
+- North Bend
+- Oregon
+- recreation
+- Steve Prefontaine
 categories:
-  - Fairs & Festivals
-image: /img/bay-area-fun-fest-parade.jpg
+- Fairs & Festivals
+image: "/img/bay-area-fun-fest-parade.jpg"
+
 ---
 <a href="http://bayareafunfestival.com/" target="_blank" rel="noopener noreferrer">The Bay Area Fun Festival</a> is coming up September 15-16, 2018 and there is already plenty of buzz about this year's event! Thousands of locals and visitors from afar come to enjoy the sights, sounds and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. [Book your accommodations](/lodging) soon so your group can enjoy the fun!
 
