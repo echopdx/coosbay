@@ -3,7 +3,7 @@ photo_name: "/img/Lous-bay-view.jpg"
 photo_alt: Lou's Bay View vacation rental in Charleston, OR
 title: Lou's Bay View
 property_name: Lou's Bay View
-property_category: ''
+property_category: 4 - Vacation Rental Homes
 address:
   street: 
   street2: 
