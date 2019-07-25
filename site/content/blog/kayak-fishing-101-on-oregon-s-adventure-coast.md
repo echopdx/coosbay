@@ -28,7 +28,9 @@ Kayak fishing is more popular than ever on Oregon’s South Coast, and with the 
 
 In addition to being more accessible, kayak fishing offers serenity and unsurpassed views of natural habitats and scenery that can only be found deep in the lakes, rivers and open water along the Pacific coastline.
 
-Where Can I Rent Kayaks and Fishing Gear?
+![](/img/kayak fishing ocean blog 695X322.jpg)
+
+**Where Can I Rent Kayaks and Fishing Gear?**
 Unless you’re BYOY (bring your own yak) you’ll need to rent one from one of our local businesses.
 
 * [Waxer’s Surf Shop](http://www.surfwaxers.com/) in Coos Bay is a great place to rent a quality kayak and other sports gear and equipment from helpful, knowledgeable staff members.
