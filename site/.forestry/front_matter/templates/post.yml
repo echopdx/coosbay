@@ -29,6 +29,7 @@ fields:
   label: Categories
   description: Hit the TAB key after each Category is entered.
 pages:
+- site/content/blog/kayak-fishing-101-on-oregon-s-adventure-coast.md
 - site/content/blog/explore-coos-bay-north-bend-this-summer-by-trolley.md
 - site/content/blog/watch-highlights-of-oregon-s-south-coast-adventures-on-exploregon-online-travel-series.md
 - site/content/blog/south-coast-tours-kayaking-stand-up-paddle-boarding.md
