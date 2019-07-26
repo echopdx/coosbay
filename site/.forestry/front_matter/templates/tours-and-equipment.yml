@@ -34,7 +34,6 @@ fields:
   label: Contact
   name: contact
 pages:
-- site/content/tourandequipment/canoas-bay-bridge-motel-watercraft-and-atv-rentals.md
 - site/content/tourandequipment/south-coast-tours-rentals-at-sunset-bay.md
 - site/content/tourandequipment/coos-bay-boat-tours.md
 - site/content/tourandequipment/bahama-boards.md
