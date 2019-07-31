@@ -22,10 +22,10 @@ website: https://www.facebook.com/liveculturecoast
 ---
 ![](/img/live-culture-logo-header.jpg)
 
-**Live Culture Coast** is a social probiotic that invites both residents and travelers to more deeply experience Oregon’s south coast. We will weave together the Wild Rivers Coast Food Trail, OCVA’s (Oregon Coast Visitors Association’s) Public Art Trail, The Oregon Coast Trail, Whiskey Run & Wild Rivers Coast Scenic Bikeway, and more outdoor recreation initiatives for a 10 day series of experiences and events at the beginning of off-peak season – October 18th to 27th, 2019.
+You’re invited to the first annual **Live Culture Coast**, a sensory celebration of fermentation, creativity & exploration that takes along the southernmost 135 miles of the Oregon Coast, from Reedsport to Brookings.
 
-Beginning on Friday night, October 18th, Coos Bay will showcase a weekend of fermentation workshops, pairings, discussions, and performances. The weekdays will be filled with choose-your-own-adventure activities along a curated route following Highway 101 including restaurants & farms, art installations & galleries, guide services & boats, and other entrepreneurial services that are developed with partners.
+**Live Culture Coast** (October 18–27, 2019) isn’t a single event, but a menu 75-plus hands-on experiences focused on art, food, nature and adventure. Hosted by the makers, creators, and entrepreneurs of the Southern Oregon Coast, the experiences take place at shores, trails, farms, towns, restaurants, galleries, and businesses. Come for a long weekend or a week. Sign up for one experience or five. To learn more and register, head over to [liveculturecoast.com](http://liveculturecoast.com/).
 
-The exact route will be chosen based on where the various trails intersect, off shoots that highlight excursions, and placements of both temporary and permanent installations. Live Culture Coast will conclude with another weekend of workshops and performances in Brookings.
+The 10-day celebration follows a choose-your-own-itinerary format: Forage for wild mushrooms with a farmer. Read roadside poetry or make a serigraph print. Learn about fermentation, cask ales, brewing or aromatic bitters. Ride a fat-tire bike on the beach. Hike with your five senses. Indulge in a lake-to-table meal.
 
-**More information about individual experiences coming soon!**
+Live Culture Coast also gives travelers easy ways to explore the best of the Southern Oregon Coast, including the [Wild Rivers Coast Food Trail](https://www.wrcfoodtrail.com/), and outdoor gems like the [Oregon Coast Trail](https://www.oregon.gov/oprd/parks/pages/oct_main.aspx), the [Whiskey Run Mountain Bike Trails](https://www.mtbproject.com/directory/8019222/whiskey-run-trails), the Coquille River Water Trail, and the [Wild Rivers Coast Scenic Bikeways](https://traveloregon.com/things-to-do/outdoor-recreation/bicycling/wild-rivers-coast-scenic-bikeway/).
