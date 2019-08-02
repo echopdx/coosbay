@@ -13,11 +13,11 @@ enddate: '2019-10-27'
 address:
   street: ''
   street2: ''
-  city: ''
+  city: Coos Bay to Brookings
   zip: ''
 phone_local: ''
 phone_toll_free: ''
-website: https://www.facebook.com/liveculturecoast
+website: https://www.liveculturecoast.org
 
 ---
 ![](/img/live-culture-logo-header.jpg)
