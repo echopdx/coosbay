@@ -41,7 +41,7 @@ Unless you’re BYOY (bring your own yak) you’ll need to rent one from one of 
 
 **Where are the best places in our area to do kayak fishing?**
 
-* [Sunset Bay State Park](https://oregonsadventurecoast.com/adventure/state-parks-and-national-lands) is a local favorite among kayakers. Known for its calm waters and easy access to the beach, Sunset Bay State Park is an ideal location for kayak anglers who want to head offshore into the ocean in search of cabezon, lingcod, and halibut.
+* [Sunset Bay State Park](https://oregonstateparks.org/index.cfm?do=parkPage.dsp_parkPage&parkId=70) is a local favorite among kayakers. Known for its calm waters and easy access to the beach, Sunset Bay State Park is an ideal location for kayak anglers who want to head offshore into the ocean in search of cabezon, lingcod, and halibut.
 * The calm waters in nearby Woahink, Siltcoos, Lake Marie or Saunders lakes are good for bass, trout and perch.
 * The Umpqua, Coos or Coquille rivers are ideal destinations for kayakers who are searching for chinook salmon.
 
