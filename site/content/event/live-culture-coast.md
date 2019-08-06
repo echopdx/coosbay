@@ -24,7 +24,7 @@ website: https://www.liveculturecoast.org
 
 You’re invited to the first annual **Live Culture Coast**, a sensory celebration of fermentation, creativity & exploration that takes along the southernmost 135 miles of the Oregon Coast, from Reedsport to Brookings.
 
-**Live Culture Coast** (October 18–27, 2019) isn’t a single event, but a menu 75-plus hands-on experiences focused on art, food, nature and adventure. Hosted by the makers, creators, and entrepreneurs of the Southern Oregon Coast, the experiences take place at shores, trails, farms, towns, restaurants, galleries, and businesses. Come for a long weekend or a week. Sign up for one experience or five. To learn more and register, head over to [liveculturecoast.com](http://liveculturecoast.com/).
+**Live Culture Coast** (October 18–27, 2019) isn’t a single event, but a menu 90-plus hands-on experiences focused on art, food, nature and adventure. Hosted by the makers, creators, and entrepreneurs of the Southern Oregon Coast, the experiences take place at shores, trails, farms, towns, restaurants, galleries, and businesses. Come for a long weekend or a week. Sign up for one experience or five. To learn more and register, head over to [liveculturecoast.com](http://liveculturecoast.com/).
 
 The 10-day celebration follows a choose-your-own-itinerary format: Forage for wild mushrooms with a farmer. Read roadside poetry or make a serigraph print. Learn about fermentation, cask ales, brewing or aromatic bitters. Ride a fat-tire bike on the beach. Hike with your five senses. Indulge in a lake-to-table meal.
 
