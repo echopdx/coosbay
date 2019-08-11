@@ -20,17 +20,20 @@ tags:
 categories:
 - Fairs & Festivals
 image: "/img/bay-area-fun-fest-parade.jpg"
+draft: true
 
 ---
-<a href="http://bayareafunfestival.com/" target="_blank" rel="noopener noreferrer">The Bay Area Fun Festival</a> is coming up September 15-16, 2018 and there is already plenty of buzz about this year's event! Thousands of locals and visitors from afar come to enjoy the sights, sounds and tastes of beautiful downtown Coos Bay and surrounding areas for this popular festival. [Book your accommodations](/lodging) soon so your group can enjoy the fun!
+The end of summer is approaching, but that means the Bay Area Fun Festival is coming up! Visitors from all over the region come out to celebrate with us and take in the sights, sounds and tastes of beautiful downtown Coos Bay and surrounding areas for this popular annual festival. 
+
+This Bay Area Fun Festival is sponsored by the Coos Bay Downtown Association and takes place September 21-22, 2019. Enjoy fun activities including a parade, shopping, tasty food, a car cruise, Pre 10K Run, and live entertainment.
+
+Book your accommodations soon so your group can enjoy the fun! 
 
 ![Bay Area Fun Festival Event Header](/img/bay-area-fun-fest-hder.jpg)
 
 ## Bay Area Fun Festival
 
-<a href="http://bayareafunfestival.com/" target="_blank" rel="noopener noreferrer">The Bay Area Fun Festival</a> (a.k.a. BAFF) is September 15-16, 2018 and will feature the one-and-only <a href="https://cruzthecoos.com" target="_blank" rel="noopener noreferrer">Cruz the Coos</a> featuring nearly 500 vintage automobiles, the <a href="https://bayareafunfestival.com/prefontaine-run/" target="_blank" rel="noopener noreferrer">Prefontaine Memorial Run</a>, <a href="https://bayareafunfestival.com/entertainment/" target="_blank" rel="noopener noreferrer">K-DOCK Music Festival</a>, a parade and much more! Visitors will also enjoy a variety of vendors, arts and crafts and lots of different kinds of food along with a beer &amp; wine garden.
-
-<div class="clearfix margin-50px-top"></div>
+The Bay Area Fun Festival is ------- and will feature the one-and-only <a Cruz the Coos featuring nearly 500 vintage automobiles, the Prefontaine Memorial Run K-DOCK Music Festival  a parade and much more! Visitors will also enjoy a variety of vendors, arts and crafts and lots of different kinds of food along with a beer & wine garden.
 
 ![Cruz the Coos Annual Event ](/img/cruz-coos-header.jpg)
 

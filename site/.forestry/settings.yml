@@ -78,19 +78,20 @@ public_path: "/img"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
+instant_preview: 
 build:
-  preview_command: npm run forestry
-  publish_command: hugo -d public
   preview_env:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.52
+  preview_output_directory: dist
+  preview_docker_image: forestryio/build:latest
+  mount_path: "/opt/buildhome/repo"
+  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
+    -d public
+  publish_command: hugo -d public
   publish_env:
   - HUGO_ENV=production
   - HUGO_VERSION=0.52
-  preview_output_directory: dist
   output_directory: dist
-  instant_preview_command: hugo server -D -E -F --port 8080 --bind 0.0.0.0 --renderToDisk
-    -d public
-  preview_docker_image: forestryio/build:latest
-  mount_path: "/opt/buildhome/repo"
+  preview_command: npm run forestry
 version: '0.52'
