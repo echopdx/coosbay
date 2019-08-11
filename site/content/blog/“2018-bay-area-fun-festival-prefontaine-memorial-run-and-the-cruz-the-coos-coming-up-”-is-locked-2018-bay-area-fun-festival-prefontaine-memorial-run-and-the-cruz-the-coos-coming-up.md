@@ -18,7 +18,6 @@ tags:
 categories:
 - Fairs & Festivals
 image: "/img/Bay Area Fun Festival Parade.jpg"
-draft: true
 
 ---
 _Photo @ Coos Bay Downtown Association courtesy of The Bay Area Fun Festival_
