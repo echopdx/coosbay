@@ -40,5 +40,5 @@ The third annual **“It’s All Berry Good” Blackberry Recipe Contest** will 
 
 #### **August 25th, 2019**
 
-11:00 AM – 1:00 PM – Soul Pie  
+11:00 AM – 1:00 PM – Got Talent Revue  
 1:30 PM – 4:00 PM – Bobby Lindstrom & Elkhorn Express
