@@ -29,6 +29,7 @@ fields:
   label: Categories
   description: Hit the TAB key after each Category is entered.
 pages:
+- site/content/blog/try-your-luck-on-oregon-s-adventure-coast.md
 - site/content/blog/kayak-fishing-101-on-oregon-s-adventure-coast.md
 - site/content/blog/south-coast-tours-kayaking-stand-up-paddle-boarding.md
 - site/content/blog/hit-the-trails-six-hiking-destinations-to-explore-on-oregon-s-adventure-coast.md
