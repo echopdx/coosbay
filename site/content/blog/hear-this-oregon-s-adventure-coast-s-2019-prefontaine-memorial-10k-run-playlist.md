@@ -8,7 +8,12 @@ description: We’ve gathered 90 minutes of some of our favorite hits – old an
   best running gear, grab some earbuds or a speaker, and run like the wind (a very
   fast wind – make Pre proud!).
 image: "/img/prefontaine-run.large.jpg"
-tags: []
+tags:
+- Prefontaine Run
+- " 10K Playlist"
+- Bay Area Fun Festival
+- Coos Bay
+- 'Steve Prefontaine '
 categories: []
 
 ---
