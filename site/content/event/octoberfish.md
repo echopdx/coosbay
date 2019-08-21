@@ -25,4 +25,4 @@ After running your race on the coast this year, enjoy food, spirits, art and lot
 
 Come join us for another year in celebration of Coos Culture. This year we will have games and activities for the kids, great music for the adults, yoga & movement workshops, local art and a tuna cookout. 7 Devils Brewing Company will be serving their craft beer. Start time is 11-ish, following the 3rd Annual Oregon's Adventure Coast Charleston Salmon Run.
 
-Always the first Saturday in October, and always Free to attend!
+Always the first Saturday in October, and always Free to attend!!
