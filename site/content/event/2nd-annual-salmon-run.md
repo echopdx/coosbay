@@ -1,5 +1,5 @@
 ---
-title: 3rd Annual Charleston Salmon Run
+title: Oregon's Adventure Coast Charleston Salmon Run
 photo: "/img/salmon-run-pg-header.jpg"
 largeboxphoto: "/img/salmon-run-large.jpg"
 mediumboxphoto: "/img/salmon-run-medium.jpg"
@@ -8,8 +8,8 @@ desktoptitle: Oregon's Adventure Coast Charleston Salmon Run
 mobiletitle: Charleston Salmon Run
 hovertitle: Run Your Race on the Coast!
 hoverdescription: Run or walk this year - Marathon, Half, 10K and 1 Mile Crab Walk!
-startdate: '2018-10-06'
-enddate: '2018-10-06'
+startdate: '2019-10-05'
+enddate: '2019-10-05'
 address:
   city: Charleston
   state: OR
@@ -24,9 +24,9 @@ website: https://www.charlestonsalmonrun.com
 
 The Salmon Run includes a 26.2-mile Marathon, 13.1-mile Half Marathon, 10K run and the 1 mile Crab Walk.
 
-{{< link url="https://www.active.com/coos-bay-or/running/distance-running-races/charleston-salmon-run-and-crab-walk-sponsored-by-advanced-health-2018" >}}**Register for the run online.**{{< /link >}}
+[**Register for the run online.**](https://endurancecui.active.com/new/events/59229051/select-race?_p=5139225389165294&e4q=f1854eb8-6eb2-431e-8e5d-2e8010ddaf7f&e4p=d8a9b909-9b9a-47e1-b9d5-b89d46916554&e4ts=1566414896&e4c=active&e4e=snawe00000000&e4rt=Safetynet&e4h=a64c2a1cb66cf0969dbfe13d35027597)
 
-After the run, join the fun at the annual [Octoberfish](https://oregonsadventurecoast.com/event/octoberfish/), the official after party of the Charleston Salmon Run!
+After the run, join the fun at the annual [Octoberfish](https://oregonsadventurecoast.com/event/octoberfish/), the official after party of the Oregon's Adventure Coast Charleston Salmon Run!
 
 ### Packet Pickup
 
