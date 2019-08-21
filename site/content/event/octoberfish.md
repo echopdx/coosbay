@@ -1,9 +1,9 @@
 ---
 title: Octoberfish
 photo: "/img/salmon-run-pg-header.jpg"
-largeboxphoto: "/img/octoberfish-large.jpg"
-mediumboxphoto: "/img/octoberfish-medium.jpg"
-smallboxphoto: "/img/octoberfish-small.jpg"
+largeboxphoto: "/img/octoberfish-event-large.jpg"
+mediumboxphoto: "/img/octoberfish-event-medium.jpg"
+smallboxphoto: "/img/octoberfish-event-small.jpg"
 desktoptitle: 'Octoberfish: The Official Salmon Run Afterparty!'
 mobiletitle: Octoberfish
 hovertitle: Official Salmon Run Afterparty
