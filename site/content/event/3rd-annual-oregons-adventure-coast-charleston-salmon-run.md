@@ -1,5 +1,5 @@
 ---
-title: Oregon's Adventure Coast Charleston Salmon Run
+title: OAC Charleston Salmon Run
 photo: "/img/salmon-run-pg-header.jpg"
 largeboxphoto: "/img/salmon-run-large.jpg"
 mediumboxphoto: "/img/salmon-run-medium.jpg"
