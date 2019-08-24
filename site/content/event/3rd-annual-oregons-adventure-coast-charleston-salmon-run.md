@@ -30,8 +30,8 @@ After the run, join the fun at the annual [Octoberfish](https://oregonsadventure
 
 ### Packet Pickup
 
-#### {{< columns number="2" >}}
-Friday, Oct 4, 2019
+{{< columns number="2" >}}
+#### Friday, Oct 4, 2019
 
 _Noon to 8:00pm_  
 **7 Devils Brewing Company**  
