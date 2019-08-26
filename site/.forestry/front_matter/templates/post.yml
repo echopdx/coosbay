@@ -29,6 +29,7 @@ fields:
   label: Categories
   description: Hit the TAB key after each Category is entered.
 pages:
+- site/content/blog/try-your-luck-on-oregon-s-adventure-coast.md
 - site/content/blog/come-for-the-lights-stay-for-the-sights.md
 - site/content/blog/charleston-marine-life-center-in-a-hidden-gem.md
 - site/content/blog/get-ready-for-the-35th-annual-charleston-crab-feed.md
@@ -48,7 +49,6 @@ pages:
 - site/content/blog/featured-adventure-see-oregon-s-south-coast-on-a-coos-boat-tour.md
 - site/content/blog/hit-the-trails-six-hiking-destinations-to-explore-on-oregon-s-adventure-coast.md
 - site/content/blog/south-coast-tours-kayaking-stand-up-paddle-boarding.md
-- site/content/blog/try-your-luck-on-oregon-s-adventure-coast.md
 - site/content/blog/hear-this-oregon-s-adventure-coast-s-2019-prefontaine-memorial-10k-run-playlist.md
 - site/content/blog/kayak-fishing-101-on-oregon-s-adventure-coast.md
 - site/content/blog/spring-video.md
