@@ -1,6 +1,6 @@
 ---
 title: Try your luck on Oregon's Adventure Coast
-date: 2019-09-03T21:00:00-07:00
+date: 2019-09-03T11:30:00-07:00
 description: Did you know that our little corner of the Pacific Northwest is home
   to two of the area’s best casinos? Whether its slots, cards, or games, you’re sure
   to find round-the-clock adventure, fun, and (fingers crossed) millions right here.
