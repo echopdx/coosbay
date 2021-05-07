@@ -44,7 +44,7 @@
     "hugo-lunr": "0.0.4",
     "imports-loader": "^0.6.5",
     "instafeed.js": "^1.4.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "lunr": "^2.3.0",
     "netlify-cms": "^1.9.3",
     "postcss-cssnext": "^2.7.0",
